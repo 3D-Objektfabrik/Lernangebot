@@ -50,6 +50,12 @@ The whole text-block should appear in purple color and with a wobbling effect.
 Which is a **bad** example, please use it with caution ...
 ~~ only this is red ;-) ~~ <!-- class = "animated infinite bounce" style = "color: red;" -->
 
+### Multiple inline animation
+
+<!--
+class="animate__animated animate__backInUp"
+style="background:#CCC; padding:3rem; min-height: 40vh; border-radius: 3rem"
+-->
     {{1}}
 *******************************************
 
