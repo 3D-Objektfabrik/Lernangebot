@@ -20,7 +20,7 @@ Die fantastische 3D-Objektfabrik: lerne auf lustige Weise, wie man einen 3D-Scho
 
 Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!  
 
-!?[Charlie und die Schokoladenfabrik]([https://www.youtube.com/watch?v=AERiykLvcoQ](https://youtu.be/8P98m59kUME) "Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charlie und die Schokoladenfabrik](https://www.imdb.com/title/tt0367594/)*")
+!?[Charlie und die Schokoladenfabrik](https://youtu.be/8P98m59kUME) "Der Titel des Projekts bezieht sich auf das klassische Buch / den Film: *"[Charlie und die Schokoladenfabrik](https://www.imdb.com/title/tt0367594/)*")
 
 ## Konzept / Methodologie des Projekts
 
