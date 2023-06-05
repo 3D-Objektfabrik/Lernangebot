@@ -50,6 +50,20 @@ The whole text-block should appear in purple color and with a wobbling effect.
 Which is a **bad** example, please use it with caution ...
 ~~ only this is red ;-) ~~ <!-- class = "animated infinite bounce" style = "color: red;" -->
 
+    {{1}}
+*******************************************
+
+This block contains {2}{multiple} inline animations.
+With some
+{2-3}{styled}<!-- class="animate__animated animate__flash" -->
+elements as well.
+
+<!-- class="animate__animated animate__backInDown" -->
+                  {{3}}
+!?[Charlie und die Schokoladenfabrik](https://youtu.be/8P98m59kUME)
+
+*******************************************
+
 ## Quizzes
 
 ### A Textquiz
