@@ -1,8 +1,5 @@
-# Lernangebot
-Die fantastische 3D-Objektfabrik: lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
-
 <!--
-author:   Your Name
+author:   Informationsdidaktik und E-Learning
 
 email:    your@mail.org
 
@@ -15,6 +12,9 @@ narrator: Deutsch Male
 comment:  Die fantastische 3D-Objektfabrik:
           lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 -->
+
+# Lernangebot
+Die fantastische 3D-Objektfabrik: lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 
 # Die fantastische 3D-Objektfabrik
 
