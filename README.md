@@ -13,9 +13,6 @@ comment:  Die fantastische 3D-Objektfabrik:
           lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 -->
 
-# Lernangebot
-Die fantastische 3D-Objektfabrik: lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
-
 # Die fantastische 3D-Objektfabrik
 
 Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!  
@@ -24,43 +21,39 @@ Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 
 ## Konzept / Methodologie des Projekts
 
+    --{{0}}--
 Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
+![Charlie]([https://farm2.static.flickr.com/1618/26701766821_7bea494826.jpg](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif))
+
+    --{{1}}--
 Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz.
 
+     --{{2}}--
 Das Lernangebot besteht aus verschiedenen Lerneinheiten (LE), die grob jeweils aus zwei Teilbereichen bestehen. In der jeweils ersten Phase der LE werden Erklärvideos bzw. analoge Demonstrationen gezeigt, die die wichtigsten Funktionen des 3D-Schoko-Druckers vorstellen und Beispiele für Objekte zeigen, die damit erstellt werden können. Die Videos und Demonstrationen zeigen Schritt für Schritt, wie der Drucker verwendet wird, vom Vorbereiten der Druckdatei bis zum Abschluss des Drucks.
 
+     --{{3}}--
 In der jeweils zweiten Phase der LE wird das zuvor vermittelte Wissen durch Übungen gefestigt. Dafür kommen einerseits interaktiven Tools wie Actionbound zum Einsatz, um mit Gamification das Lernen der Verwendung des Druckers unterhaltsamer zu gestalten und gleichzeitig zu bewerten, welche der Jugendlichen in der Lage sind, das Gerät allein zu bedienen. Andererseits festigen praktische Übungen das zuvor gelernte. Ziel ist es, die Jugendlichen zu ermutigen, ihre 3D-Druckfähigkeiten zu üben und zu verbessern, indem eine praxisnahe und herausfordernde Lernerfahrung geboten wird.
-
-Images:
-
-![images](https://farm2.static.flickr.com/1618/26701766821_7bea494826.jpg)
-
 
 ### Extensions
 
-     --{{0}}--
+    --{{0}}--
 But you can also include other features such as spoken text.
 
-      --{{1}}--
+    --{{1}}--
 Insert any kind of audio file:
 
-       {{1}}
-?[audio](https://bigsoundbank.com/UPLOAD/mp3/1068.mp3)
+     {{1}}
+?[audio](https://github.com/3D-Objektfabrik/Ressourcen/raw/main/sounds/1.mp3)
 
-
-     --{{2}}--
+    --{{2}}--
 Even videos or change the language completely.
 
-       {{2-3}}
-!?[video](https://www.youtube.com/watch?v=bICfKRyKTwE)
+     {{2-3}}
+!?[video](https://youtu.be/8P98m59kUME)
 
-
-      --{{3 Russian Female}}--
-Первоначально создан в 2004 году Джоном Грубером (англ. John Gruber) и Аароном
-Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по
-разметке текста в электронных письмах...
-
+    --{{3 Deutsch Female}}--
+Dies sind meine Hauptbestandteile...
 
     {{3}}
 Type "voice" to see a list of all available languages.
@@ -72,23 +65,6 @@ Type "voice" to see a list of all available languages.
 The whole text-block should appear in purple color and with a wobbling effect.
 Which is a **bad** example, please use it with caution ...
 ~~ only this is red ;-) ~~ <!-- class = "animated infinite bounce" style = "color: red;" -->
-
-## Charts
-
-Use ASCII-Art to draw diagrams:
-
-                                    Multiline
-    1.9 |    DOTS
-        |                 ***
-      y |               *     *
-      - | r r r r r r r*r r r r*r r r r r r r
-      a |             *         *
-      x |            *           *
-      i | B B B B B * B B B B B B * B B B B B
-      s |         *                 *
-        | *  * *                       * *  *
-     -1 +------------------------------------
-        0              x-axis               1
 
 ## Quizzes
 
@@ -113,35 +89,6 @@ Just add as many points as you wish:
     [( )] ...
     [(X)] <-- Only the **X** is allowed.
     [( )] ...
-
-
-## Executable Code
-
-You can make your code executable and define projects:
-
-``` js     -EvalScript.js
-let who = data.first_name + " " + data.last_name;
-
-if(data.online) {
-  who + " is online"; }
-else {
-  who + " is NOT online"; }
-```
-``` json    +Data.json
-{
-  "first_name" :  "Sammy",
-  "last_name"  :  "Shark",
-  "online"     :  true
-}
-```
-<script>
-  // insert the JSON dataset into the local variable data
-  let data = @input(1);
-
-  // eval the script that uses this dataset
-  eval(`@input(0)`);
-</script>
-
 
 ## More
 
