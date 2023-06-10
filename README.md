@@ -28,13 +28,13 @@ Die fantastische 3D-Objektfabrik: Lerne auf lustige Weise, wie man einen 3D-Scho
     {{0-1 |>}}
 Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen.
 
-{{0-1}}
+    {{0-1}}
 ![Schoko-3D-Druckers](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3dprint.jpg)
 
     {{1-2 |>}}
 Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz. Durch die E-Learning-Einheiten führt der Schoko-3D-Drucker quasi selbst – personifiziert als „Charlie der Schoko-Robot“ begleitet er die Teilnehmenden durch den Kurs und zeigt und erklärt ihnen die Funktionen seiner „fantastischen 3D-Objektfabrik“. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
-   {{1-2}}
+    {{1-2}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)
 
     {{2-3 |>}}
@@ -43,7 +43,7 @@ Das Lernangebot besteht aus verschiedenen Lerneinheiten, die grob jeweils aus zw
     {{2-3}}
 ![elerning](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/eLerning.jpg)
 
-      {{3 |>}}
+    {{3 |>}}
 In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen durch Übungen gefestigt. Dafür kommen einerseits interaktiven Tools wie Actionbound zum Einsatz, um mit Gamification das Lernen der Verwendung des Druckers unterhaltsamer zu gestalten und gleichzeitig zu bewerten, welche der Jugendlichen in der Lage sind, das Gerät allein zu bedienen. Andererseits festigen praktische Übungen das zuvor gelernte. Ziel ist es, die Jugendlichen zu ermutigen, ihre 3D-Druckfähigkeiten zu üben und zu verbessern, indem eine praxisnahe und herausfordernde Lernerfahrung geboten wird.
 
 {{3-4}}
@@ -93,31 +93,31 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
-{{0-1}}
+    {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
 
-{{1-2}}
+    {{1-2}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
 
-{{2-3}}
+    {{2-3}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
 
-{{3-4}}
+    {{3-4}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
 
-{{4-5}}
+    {{4-5}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/e.png)
 
-{{0-1 |>}}
-Hi, ich bin **Charlie**, der Schokoladenroboter. Genauer gesagt, bin ich ein Schokoladen 3D-Drucker. Willkommen in meiner Schokoladenfabrik!
+    {{0-1 |>}}
+Hi, ich bin **Charlie**, der Schokoladenroboter. Genauer gesagt, bin ich ein Schokoladen 3D Drucker. Willkommen in meiner Schokoladenfabrik!
 Ich möchte dir heute gerne erklären, wie der Schokoladen 3D-Druck funktioniert und gemeinsam mit dir etwas Leckeres aus Schokolade erschaffen.
 Wenn du bereit bist, tippe auf den „Weiter“-Pfeil unten auf der Seite und wir beginnen.
 
-{{1-2 |>}}
+    {{1-2 |>}}
 Wunderbar ! Bevor wir starten, habe ich noch eine Frage an dich.
 Was weißt du bereits über das Thema 3D-Druck? Wähle die Antwort, die am besten zu dir passt:
 
-{{1-2 |>}}
+    {{1-2 |>}}
 [[Ich weiß schon eine Menge darüber!|Ich habe schon ein bisschen davon gehört, aber möchte mehr darüber erfahren.|Ich weiß noch nichts darüber.]]
     <script>
       if ("@input" === "0") {
@@ -136,50 +136,50 @@ Was weißt du bereits über das Thema 3D-Druck? Wähle die Antwort, die am beste
         }
     </script>
 
-{{2-3 |>}}
+    {{2-3 |>}}
 Als erstes zeige ich dir, wie der Schokoladen 3D-Druck funktioniert und welche weiteren Arten von 3D-Druck es gibt.
 Dann lernst du, wie man einen Schokoladen 3D-Drucker wie mich aufbaut und benutzt.
 
-{{3-4 |>}}
+    {{3-4 |>}}
 Jetzt kommt der praktische Teil! Mit meiner menschlichen Kollegin setzt du den Schokoladen 3D-Drucker zusammen.
 Danach wirst du sogar die Gelegenheit haben, dein eigenes 3D-Modell zu erstellen und es aus Schokolade zu drucken!
 
-{{4-5 |>}}
+    {{4-5 |>}}
 Also sei gespannt und bereit, eine Menge zu lernen und Spaß zu haben. Ich werde dich Schritt für Schritt begleiten, damit du ein kleiner Experte für Schokoladen 3D-Druck wirst. Los geht’s!
 
 ### Was ist ein 3D-Drucker?
 
-{{0 |>}}
+    {{0 |>}}
 Ein 3D-Drucker ist eine Maschine, die dreidimensionale Gegenstände aus verschiedenen Materialien herstellen kann. Normalerweise verwendet man Kunststoff oder Metall, aber ich bin ein besonderer 3D-Drucker, der Schokolade benutzt!
 
-{{0-1}}
-![Schokoladen-3D-Druck](https://3druck.com/wp-content/uploads/2018/08/Kickstarter-Kampagne-Venturi-3D-Drucker-mit-1-Tsd.-vorinstallierten-3D-Modellen-1.gif)
+    {{0-1}}
+![3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d1.gif)
 
-{{1 |>}}
-Der Schokoladen-3D-Druck beginnt mit einem digitalen Entwurf, also einem virtuellen Modell, das jemand am Computer erstellt. Dort können wir die Form, Größe und Details festlegen. Es ist wie eine Bauanleitung für den 3D-Drucker.Dieses Modell kann alles sein: von Figuren und Formen bis hin zu Pralinen oder sogar kleinen Häusern.
+    {{1 |>}}
+Der Schokoladen 3D-Druck beginnt mit einem digitalen Entwurf, also einem virtuellen Modell, das jemand am Computer erstellt. Dort können wir die Form, Größe und Details festlegen. Es ist wie eine Bauanleitung für den 3D-Drucker.Dieses Modell kann alles sein: von Figuren und Formen bis hin zu Pralinen oder sogar kleinen Häusern.
 
-{{1-2}}
-![Schokoladen-3D-Druck](https://thumbs.gfycat.com/CleanAgonizingKodiakbear-size_restricted.gif)
+    {{1-2}}
+![Schokoladen-3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d2.gif)
 
-{{2 |>}}
+    {{2 |>}}
 Sobald der Entwurf fertig ist, wird er an mich, Charlie, den Schokoladenroboter, gesendet. Ich habe eine spezielle Software und Mechanismen, die es mir ermöglichen, die Schokolade in genau der richtigen Weise zu schmelzen und zu formen
 
-{{2-3}}
+    {{2-3}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
 
-{{3 |>}}
+    {{3 |>}}
 Die Schokolade wird in einen Behälter gefüllt, der an meinem Kopf befestigt ist und ich erwärme die Schokolade, bis sie flüssig ist. Dann beginnt der eigentliche Druckvorgang. Ich bewege mich sehr präzise und Schicht für Schicht wird die flüssige Schokolade ausgedruckt. Dabei entsteht nach und nach das gewünschte Objekt.
 
-{{3-4}}
+    {{3-4}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
 
-{{4 |>}}
+    {{4 |>}}
 Die Schokolade kühlt ab und erstarrt, sobald sie aus dem Druckkopf kommt. Dadurch behält sie ihre Form und wird fest. Auf diese Weise kann ich Schicht für Schicht eine Schokoladenfigur oder eine andere Leckerei aufbauen.
 
-{{4-5}}
+    {{4-5}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
 
-{{5 |>}}
+    {{5 |>}}
 Am Ende des Druckvorgangs kann die Schokolade aus dem Drucker genommen werden und ist bereit zum Genießen! Man kann sie essen oder verschenken oder einfach nur bewundern, wie schön sie geworden ist.
 
 <!--
@@ -188,13 +188,60 @@ class="animate__animated animate__backInUp"
     {{5-6}}
 ![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade.png)
 
+    {{6 |>}}
+Es gibt tatsächlich verschiedene Arten von 3D-Druck. Neben dem Schokoladen 3D-Druck, den ich mache, gibt es noch viele weitere Möglichkeiten, Dinge mit einem 3D-Drucker herzustellen.
+
+    {{6-7}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
+
+    {{7 |>}}
+Ich möchte dir meinen Freund Jürgen vorstellen. Er arbeitet auch hier. Jürgen ist ein Kunststoff 3D-Drucker. Genau wie ich, kann auch Jürgen wundervolle Dinge drucken, aber mit Kunststoff anstatt mit Schokolade.
+
+    {{7-8}}
+![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj1.png)
+
+   {{8 |>}}
+Jürgen mag am liebsten P L A-Filament. P L A – das steht für Polylactid - ist ein beliebtes Material im 3D-Druck und hat viele Vorteile. Es ist ein biologisch abbaubarer Kunststoff, der aus nachwachsenden Rohstoffen wie Maisstärke oder Zuckerrohr hergestellt wird. P L A ist umweltfreundlich und bietet eine gute Kombination aus Festigkeit, Haltbarkeit und Druckbarkeit.
+
+   {{8-9}}
+![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj2.png)
+
+   {{9 |>}}
+Mit dieser Art 3D-Druck können viele verschiedene Dinge hergestellt werden: Spielzeug, Schmuck, Ersatzteile und vieles mehr. Es ist eine aufregende Technologie, die es uns erlaubt, unserer Fantasie freien Lauf zu lassen und unsere eigenen Objekte zu erschaffen.
+
+   {{9-10}}
+![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj3.png)
+
+   {{10 |>}}
+Es gibt aber noch viel mehr von uns 3D-Druckern, die alle mit unterschiedlichen Materialien arbeiten. Zum Beispiel gibt es Metall 3D-Drucker. Mit ihrer Technologie kann man Metallgegenstände drucken. Das ist besonders nützlich für die Herstellung von Werkzeugen, Prototypen in der Industrie oder sogar für medizinische Implantate.
+
+   {{10-11}}
+![Metall-3D-Drucker](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d3.gif)
+
+   {{11 |>}}
+Es gibt auch Keramik 3D-Drucker. Sie nutzen Keramikmaterialien wie Ton oder Porzellan, um dreidimensionale Objekte zu drucken. Das wird oft für Kunstwerke, Vasen oder sogar maßgeschneiderte Tassen verwendet.
+
+   {{11-12}}
+![Keramik-3D-Drucker](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d4.gif)
+
+    {{12 |>}}
+Außerdem gibt es Bio 3D-Drucker. Hierbei werden lebende Zellen und Biomaterialien verwendet, um Gewebe oder sogar Organe zu drucken. Das ist eine aufregende Technologie, die in der medizinischen Forschung und bei der Entwicklung von neuen Behandlungsmöglichkeiten zum Einsatz kommt.
+
+    {{12-13}}
+![Bio-3D-Drucker](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d5.gif)
+
+    {{13 |>}}
+Das sind nur einige Beispiele für verschiedene Arten von 3D-Druck. Jede Methode hat ihre eigenen besonderen Eigenschaften und Anwendungen. Es ist erstaunlich, wie vielseitig der 3D-Druck sein kann!
+
+    {{13-14}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
+
 ### Quiz
     {{0-1|>}}
 Puh, das war schon eine ganze Menge an Informationen. An was erinnerst du dich noch? Probiere das Quiz aus.
 
-    {{0-1 |>}}
+    {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
-
 
     {{1-2 |>}}
 Welches Material verwendet Jürgen, der Kunststoff-3D-Drucker normalerweise?
@@ -215,7 +262,7 @@ Welche Materialien können für 3D-Druck mit verschiedenen Druckern verwendet we
     [[X]] Keramik
 
     {{3-4 |>}}
-Beim Kunststoff- und Schokoladen-3D-Druck wird das Material in welchem Ausgangszustand verwendet?
+Beim Kunststoff- und Schokoladen 3D-Druck wird das Material in welchem Ausgangszustand verwendet?
 
     {{3-4}}
     [( )] Flüssig
@@ -223,7 +270,7 @@ Beim Kunststoff- und Schokoladen-3D-Druck wird das Material in welchem Ausgangsz
     [( )] Gasförmig
 
     {{4-5 |>}}
-Wie wird die Schokolade beim Schokoladen-3D-Druck verwendet?
+Wie wird die Schokolade beim Schokoladen 3D-Druck verwendet?
 
     {{4-5}}
     [( )] Sie wird gegessen.
