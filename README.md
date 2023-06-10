@@ -75,6 +75,11 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 | Lehrstrategie(n) | **Expositorisches Lernen** <br>  - Vermittlung der Inhalte durch Vortrag/Video(s) <br> - Schritt-für-Schritt-Anleitungen <br> - Praktische Demonstrationen  <br> - praktische/hands-on Übungen |
 | Lehrmethode(n) | - Individuelle oder in 2er Teams, wenn gewünscht <br> - Hands-on-Lernen <br> - gamifiziertes Lernen mithilfe eins Gamification-Tools |
 
+    {{4}}
+|          |          |
+| -------- |----------|
+| Tools und Materialien | - 3D-Schoko-Drucker inkl. Zubehör <br> - 3D-Druckmaterialien (Schokolade) <br> - Computer Software zur Erstellung von 3D-Druckdateien <br> - Bipacours, Actionbound oder ein vergleichbares Gamification Tool <br> - Lehrmaterialien|
+
 
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
