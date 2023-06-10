@@ -188,30 +188,53 @@ class="animate__animated animate__backInUp"
     {{5-6}}
 ![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade.png)
 
+### Quiz
+
+    {{0-1 |>}}
+Welches Material verwendet Jürgen, der Kunststoff-3D-Drucker normalerweise?
+
+    {{0-1}}
+    [( )] Metall
+    [( )] Holz
+    [(X)] PLA-Filament
+
+    {{1-2 |>}}
+Welche Materialien können für 3D-Druck mit verschiedenen Druckern verwendet werden? [Mehrfachantworten möglich]
+
+    {{1-2}}
+    [[ ]] Baumwolle
+    [[X]] Schokolade
+    [[ ]] Papier
+    [[X]] Metall
+    [[X]] Keramik
+
+    {{2-3 |>}}
+Beim Kunststoff- und Schokoladen-3D-Druck wird das Material in welchem Ausgangszustand verwendet?
+
+    {{2-3}}
+    [( )] Flüssig
+    [(X)] Fest
+    [( )] Gasförmig
+
+    {{3-4 |>}}
+Wie wird die Schokolade beim Schokoladen-3D-Druck verwendet?
+
+    {{3-4}}
+    [( )] Sie wird gegessen.
+    [(X)] Sie wird geschmolzen und schichtweise aufgetragen.
+    [( )] Sie wird zu kleinen Kügelchen geformt.
+
+    {{4-5 |>}}
+Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
+
+    {{4-5}}
+    [(X)] Spielzeug, Schmuck und Ersatzteile
+    [( )] Bücher, Stifte und Schuhe
+    [( )] Obst, Gemüse und Tiere
+
+
 ## LE2: Wie nutze und bediene ich den 3D-Schokodrucker? [00:15h]
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
 ## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
 ## Evaluation [00:10h]
-
-### A Textquiz
-
-What did the **fish** say when he hit a **concrete wall**?
-
-    [[dam]]
-
-### Multiple Choice
-
-Just add as many points as you wish:
-
-    [[X]] Only the **X** marks the correct point.
-    [[ ]] Empty ones are wrong.
-    [[X]] ...
-
-### Single Choice
-
-Just add as many points as you wish:
-
-    [( )] ...
-    [(X)] <-- Only the **X** is allowed.
-    [( )] ...
