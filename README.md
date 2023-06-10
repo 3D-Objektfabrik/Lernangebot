@@ -59,6 +59,12 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 | -------- |----------|
 | Lernziele (Taxonomie!) | **Richtlinien/Lernfelder**: <br> Die TN sollen Kenntnisse im Umgang mit digitaler Technik und digitalen Medien erlangen, speziell den Umgang mit 3D-Software und 3D-Druck. <br><br> **Groblernziele**: <br> Die TN können ein 3D-Druck-Objekt mittels einer geeigneten Software (erstellen,) für den 3D-Druck aufbereiten und den 3D-(Schoko)-Drucker bedienen. <br><br> **Feinlernziele**: <br> *Taxonomiestufe* – **Wissen**:  <br> - Die TN sollen die Funktionsweise eines 3D-Druckers *aufzählen* sowie seine Verwendungsmöglichkeiten nennen können. <br><br> *Taxonomiestufe* – **Anwenden**:  <br> - Die TN sollen in der Lage sein, das 3D-Modellierungsprogramm Tinkercad zu *benutzen* und die Vorbereitung eines einfachen Objekts für den Druck *durchzuführen*. <br><br> *Taxonomiestufe* – **Analysieren**:  <br> - Die TN sollen in der Lage sein, einfache Probleme während des 3D-Druckprozesses zu *analysieren* und zu *lösen*. <br><br>  *Taxonomiestufe* – **Beurteilen**:  <br> - Die TN sollen in der Lage sein, die 3D-Druckmaschine selbstständig zu prüfen und sicherzustellen, dass sie korrekt funktioniert (Beispiel: die Fähigkeit, ein einfaches Objekt auf dem 3D-Drucker zu drucken und zu überprüfen, ob es korrekt gedruckt wurde). <br><br> |
 
+    {{3}}
+|          |          |
+| -------- |----------|
+| Lehrhinhalte | - Funktionsweise des 3D-Druckers <br> - Verwendung der 3D-Modellierungssoftware <br> - Druckvorbereitung und -durchführung <br> - Druckergebnisbewertung|
+| Lehrstrategie(n) | **Expositorisches Lernen** <br>  - Vermittlung der Inhalte durch Vortrag/Video(s) <br> - Schritt-für-Schritt-Anleitungen <br> - Praktische Demonstrationen  <br> - praktische/hands-on Übungen |
+
 
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
