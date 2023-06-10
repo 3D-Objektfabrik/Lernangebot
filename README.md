@@ -116,6 +116,44 @@ Danach wirst du sogar die Gelegenheit haben, dein eigenes 3D-Modell zu erstellen
 {{4-5 |>}}
 Also sei gespannt und bereit, eine Menge zu lernen und Spaß zu haben. Ich werde dich Schritt für Schritt begleiten, damit du ein kleiner Experte für Schokoladen 3D-Druck wirst. Los geht’s!
 
+### Was ist ein 3D-Drucker?
+
+{{0 |>}}
+Ein 3D-Drucker ist eine Maschine, die dreidimensionale Gegenstände aus verschiedenen Materialien herstellen kann. Normalerweise verwendet man Kunststoff oder Metall, aber ich bin ein besonderer 3D-Drucker, der Schokolade benutzt!
+
+{{0-1}}
+![Schokoladen-3D-Druck](https://3druck.com/wp-content/uploads/2018/08/Kickstarter-Kampagne-Venturi-3D-Drucker-mit-1-Tsd.-vorinstallierten-3D-Modellen-1.gif)
+
+{{1 |>}}
+Der Schokoladen-3D-Druck beginnt mit einem digitalen Entwurf, also einem virtuellen Modell, das jemand am Computer erstellt. Dort können wir die Form, Größe und Details festlegen. Es ist wie eine Bauanleitung für den 3D-Drucker.Dieses Modell kann alles sein: von Figuren und Formen bis hin zu Pralinen oder sogar kleinen Häusern.
+
+{{1-2}}
+![Schokoladen-3D-Druck](https://thumbs.gfycat.com/CleanAgonizingKodiakbear-size_restricted.gif)
+
+{{2 |>}}
+Sobald der Entwurf fertig ist, wird er an mich, Charlie, den Schokoladenroboter, gesendet. Ich habe eine spezielle Software und Mechanismen, die es mir ermöglichen, die Schokolade in genau der richtigen Weise zu schmelzen und zu formen
+
+{{2-3}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
+
+{{3 |>}}
+Die Schokolade wird in einen Behälter gefüllt, der an meinem Kopf befestigt ist und ich erwärme die Schokolade, bis sie flüssig ist. Dann beginnt der eigentliche Druckvorgang. Ich bewege mich sehr präzise und Schicht für Schicht wird die flüssige Schokolade ausgedruckt. Dabei entsteht nach und nach das gewünschte Objekt.
+
+{{3-4}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
+
+{{4 |>}}
+Die Schokolade kühlt ab und erstarrt, sobald sie aus dem Druckkopf kommt. Dadurch behält sie ihre Form und wird fest. Auf diese Weise kann ich Schicht für Schicht eine Schokoladenfigur oder eine andere Leckerei aufbauen.
+
+{{4-5}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
+
+{{5 |>}}
+Am Ende des Druckvorgangs kann die Schokolade aus dem Drucker genommen werden und ist bereit zum Genießen! Man kann sie essen oder verschenken oder einfach nur bewundern, wie schön sie geworden ist.
+
+{{5-6}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
+
 ## Testing
 
 [(1)] Ich weiß schon eine Menge darüber!
