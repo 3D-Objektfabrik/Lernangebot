@@ -189,49 +189,54 @@ class="animate__animated animate__backInUp"
 ![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade.png)
 
 ### Quiz
+    {{0-1|>}}
+Puh, das war schon eine ganze Menge an Informationen. An was erinnerst du dich noch? Probiere das Quiz aus.
 
     {{0-1 |>}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
+
+
+    {{1-2 |>}}
 Welches Material verwendet Jürgen, der Kunststoff-3D-Drucker normalerweise?
 
-    {{0-1}}
+    {{1-2}}
     [( )] Metall
     [( )] Holz
     [(X)] PLA-Filament
 
-    {{1-2 |>}}
+    {{2-3 |>}}
 Welche Materialien können für 3D-Druck mit verschiedenen Druckern verwendet werden? [Mehrfachantworten möglich]
 
-    {{1-2}}
+    {{2-3}}
     [[ ]] Baumwolle
     [[X]] Schokolade
     [[ ]] Papier
     [[X]] Metall
     [[X]] Keramik
 
-    {{2-3 |>}}
+    {{3-4 |>}}
 Beim Kunststoff- und Schokoladen-3D-Druck wird das Material in welchem Ausgangszustand verwendet?
 
-    {{2-3}}
+    {{3-4}}
     [( )] Flüssig
     [(X)] Fest
     [( )] Gasförmig
 
-    {{3-4 |>}}
+    {{4-5 |>}}
 Wie wird die Schokolade beim Schokoladen-3D-Druck verwendet?
 
-    {{3-4}}
+    {{4-5}}
     [( )] Sie wird gegessen.
     [(X)] Sie wird geschmolzen und schichtweise aufgetragen.
     [( )] Sie wird zu kleinen Kügelchen geformt.
 
-    {{4-5 |>}}
+    {{5-6 |>}}
 Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
 
-    {{4-5}}
+    {{5-6}}
     [(X)] Spielzeug, Schmuck und Ersatzteile
     [( )] Bücher, Stifte und Schuhe
     [( )] Obst, Gemüse und Tiere
-
 
 ## LE2: Wie nutze und bediene ich den 3D-Schokodrucker? [00:15h]
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
