@@ -183,7 +183,11 @@ class="animate__animated animate__backInUp"
     {{5-6}}
 ![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade.png)
 
-## Quizzes
+## LE2: Wie nutze und bediene ich den 3D-Schokodrucker? [00:15h]
+## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
+## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
+## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
+## Evaluation [00:10h]
 
 ### A Textquiz
 
