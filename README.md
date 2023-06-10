@@ -58,9 +58,72 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 | Externe Voraussetzungen | **Personelle Ressourcen**: <br> maximal 1 Mitarbeiter:in der Bibliothek, die das Projekt unterstützen und begleiten kann. <br> **Räumliche Voraussetzungen**: <br> das Lernangebot muss in den Räumlichkeiten der Bibliothek stattfinden, da der 3D-Schokodrucker nur dort vor Ort genutzt werden kann. Ein separater Raum für die Durchführung des Angebots steht, wenn benötigt, zur Verfügung. |
 
     {{2}}
-|          |          | 
+|          |          |
 | -------- |----------|
 | Lernziele (Taxonomie!) | **Richtlinien/Lernfelder**: <br> Die TN sollen Kenntnisse im Umgang mit digitaler Technik und digitalen Medien erlangen, speziell den Umgang mit 3D-Software und 3D-Druck. <br><br> **Groblernziele**: <br> Die TN können ein 3D-Druck-Objekt mittels einer geeigneten Software (erstellen,) für den 3D-Druck aufbereiten und den 3D-(Schoko)-Drucker bedienen. <br><br> **Feinlernziele**: <br> *Taxonomiestufe* – **Wissen**:  <br> - Die TN sollen die Funktionsweise eines 3D-Druckers *aufzählen* sowie seine Verwendungsmöglichkeiten nennen können. <br><br> *Taxonomiestufe* – **Anwenden**:  <br> - Die TN sollen in der Lage sein, das 3D-Modellierungsprogramm Tinkercad zu *benutzen* und die Vorbereitung eines einfachen Objekts für den Druck *durchzuführen*. <br><br> *Taxonomiestufe* – **Analysieren**:  <br> - Die TN sollen in der Lage sein, einfache Probleme während des 3D-Druckprozesses zu *analysieren* und zu *lösen*. <br><br>  *Taxonomiestufe* – **Beurteilen**:  <br> - Die TN sollen in der Lage sein, die 3D-Druckmaschine selbstständig zu prüfen und sicherzustellen, dass sie korrekt funktioniert (Beispiel: die Fähigkeit, ein einfaches Objekt auf dem 3D-Drucker zu drucken und zu überprüfen, ob es korrekt gedruckt wurde). <br><br> |
+
+
+## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
+
+{{0-1}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
+
+{{1-2}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
+
+{{2-3}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
+
+{{3-4}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
+
+{{4-5}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/e.png)
+
+{{0-1 |>}}
+Hi, ich bin **Charlie**, der Schokoladenroboter. Genauer gesagt, bin ich ein Schokoladen 3D-Drucker. Willkommen in meiner Schokoladenfabrik!
+Ich möchte dir heute gerne erklären, wie der Schokoladen 3D-Druck funktioniert und gemeinsam mit dir etwas Leckeres aus Schokolade erschaffen.
+Wenn du bereit bist, tippe auf den „Weiter“-Pfeil unten auf der Seite und wir beginnen.
+
+{{1-2 |>}}
+Wunderbar ! Bevor wir starten, habe ich noch eine Frage an dich.
+Was weißt du bereits über das Thema 3D-Druck? Wähle die Antwort, die am besten zu dir passt:
+
+{{1-2 |>}}
+[[Ich weiß schon eine Menge darüber!|Ich habe schon ein bisschen davon gehört, aber möchte mehr darüber erfahren.|Ich weiß noch nichts darüber.]]
+    <script>
+      if ("@input" === "0") {
+            send.lia("Du weißt schon eine ganze Menge über Schokoladen-3D-Druck. Das ist super! Im Laufe des Kurses verrate ich dir noch mehr und du kannst dein Wissen vertiefen.", [], false)
+            setTimeout(function(){  send.lia("true")}, 1000)
+          }
+      else if ("@input" === "1") {
+        send.lia("Das freut mich! Im Laufe des Kurses verrate ich dir noch mehr und du kannst dein Wissen vertiefen.", [], false)
+        setTimeout(function(){  send.lia("true")}, 1000)
+      }
+      else {
+           //send.lia("Danke dir!", [], true)
+           //send.lia("true")
+           send.lia("Das macht gar nichts, wenn du noch nichts über Schokoladen-3D-Druck weißt. Ich werde dir alles erklären und dich durch den Kurs führen.", [], false)
+           setTimeout(function(){  send.lia("true")}, 1000)
+        }
+    </script>
+
+{{2-3 |>}}
+Als erstes zeige ich dir, wie der Schokoladen 3D-Druck funktioniert und welche weiteren Arten von 3D-Druck es gibt.
+Dann lernst du, wie man einen Schokoladen 3D-Drucker wie mich aufbaut und benutzt.
+
+{{3-4 |>}}
+Jetzt kommt der praktische Teil! Mit meiner menschlichen Kollegin setzt du den Schokoladen 3D-Drucker zusammen.
+Danach wirst du sogar die Gelegenheit haben, dein eigenes 3D-Modell zu erstellen und es aus Schokolade zu drucken!
+
+{{4-5 |>}}
+Also sei gespannt und bereit, eine Menge zu lernen und Spaß zu haben. Ich werde dich Schritt für Schritt begleiten, damit du ein kleiner Experte für Schokoladen 3D-Druck wirst. Los geht’s!
+
+## Testing
+
+[(1)] Ich weiß schon eine Menge darüber!
+[(2)] Ich habe schon ein bisschen davon gehört, aber möchte mehr darüber erfahren.
+[(3)] Ich weiß noch nichts darüber.
 
 ### Styling
 
