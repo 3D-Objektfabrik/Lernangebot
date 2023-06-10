@@ -151,40 +151,11 @@ Die Schokolade kühlt ab und erstarrt, sobald sie aus dem Druckkopf kommt. Dadur
 {{5 |>}}
 Am Ende des Druckvorgangs kann die Schokolade aus dem Drucker genommen werden und ist bereit zum Genießen! Man kann sie essen oder verschenken oder einfach nur bewundern, wie schön sie geworden ist.
 
-{{5-6}}
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
-
-## Testing
-
-[(1)] Ich weiß schon eine Menge darüber!
-[(2)] Ich habe schon ein bisschen davon gehört, aber möchte mehr darüber erfahren.
-[(3)] Ich weiß noch nichts darüber.
-
-### Styling
-
-<!-- style = "color: purple" -->
-The whole text-block should appear in purple color and
-~~ only this is red ;-) ~~ <!-- style = "color: red;" -->
-
-### Multiple inline animation
-
 <!--
 class="animate__animated animate__backInUp"
-style="background:#CCC; padding:3rem; min-height: 40vh; border-radius: 3rem"
 -->
-    {{1}}
-*******************************************
-
-This block contains {2}{multiple} inline animations.
-With some
-{2-3}{styled}<!-- class="animate__animated animate__flash" -->
-elements as well.
-
-<!-- class="animate__animated animate__backInDown" -->
-                  {{3}}
-!?[Wie kann Web 3.0 Lehre retten?](https://youtu.be/y6tBVNe6mWw)
-
-*******************************************
+    {{5-6}}
+![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade.png)
 
 ## Quizzes
 
@@ -209,9 +180,3 @@ Just add as many points as you wish:
     [( )] ...
     [(X)] <-- Only the **X** is allowed.
     [( )] ...
-
-## More
-
-Find out what you also can do ...
-
-https://LiaScript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md
