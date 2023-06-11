@@ -293,4 +293,10 @@ Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
 
 ## Classroom
 
+Wie fandet ihr den Kurs?
+
+[[___]]
+
+## externe Tools
+
 ??[scratch](https://scratch.mit.edu/projects/859966397/)
