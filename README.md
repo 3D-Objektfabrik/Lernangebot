@@ -297,6 +297,15 @@ Wie fandet ihr den Kurs?
 
 [[___]]
 
+## LiaScript
+
+        {{0 |>}}
+[LiaScript](https://github.com/LiaScript/LiaScript) ist eine Erweiterung von Markdown zur Unterstützung der Erstellung von kostenlosen und offenen Online-Kursen, interaktiven Büchern und somit von Open Educational Resources (OER). Kurse sind einfache Textdateien, die von jedermann frei gehostet und erstellt werden können, ähnlich wie Open-Source-Projekte.
+
+Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript erklärt, wie man es benutzt und einige Anwendungen zeigt:
+
+!?[Wie kann Web 3.0 Lehre retten](https://www.youtube.com/watch?v=y6tBVNe6mWw "Wie kann Web 3.0 Lehre retten? - Andre Dietrich & Sebastian Zug - University:Future Festival 2023.")
+
 ## externe Tools
 
 ??[scratch](https://scratch.mit.edu/projects/859966397/)
