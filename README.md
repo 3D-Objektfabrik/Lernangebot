@@ -290,3 +290,7 @@ Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
 ## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
 ## Evaluation [00:10h]
+
+## Classroom
+
+??[scratch](https://scratch.mit.edu/projects/859966397/)
