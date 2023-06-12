@@ -90,6 +90,14 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 | -------- |----------|
 | Organisatorische Planung (*Anmeldemodalitäten, Raumbedarf, Technikbedarf, Personalbedarf etc.*) | **Anmeldemodalitäten**: Eine Anmeldung ist erforderlich. Die TN können sich vor Ort, telefonisch oder per E-Mail anmelden. Die Anzahl der TN ist auf vier begrenzt, um sicherzustellen, dass jeder TN genügend Zeit hat, den Drucker zu benutzen und Fragen zu stellen. <br><br>  **Raumbedarf**: Der E-Learning-Kurs am Tablet kann innerhalb der Bibliothek an einem frei wählbaren Platz durchgeführt werden. Die abschließende Hands-on-Übung findet am Standort des 3D-Schokodruckers im Eingangsbereich der Bibliothek statt. <br><br>  **Technikbedarf**: Ein 3D-Schoko-Drucker sowie 1 bis 4 Tablets (mit der notwendigen Software und Treibern) werden benötigt. Es sollte auch eine stabile Internetverbindung vorhanden sein, um auf die benötigte Software und Anleitungen zugreifen zu können. <br><br>  **Personalbedarf**: Es sollte mindestens ein erfahrener Mitarbeiter der Bibliothek anwesend sein, um Fragen zu beantworten und sicherzustellen, dass die TN den Drucker sicher bedienen können, um den Raum zu überwachen und bei Bedarf technische Unterstützung zu leisten. <br><br>  **Abschlussurkunde**: Ausstellung von Teilnehmerzertifikat. <br>|
 
+### LiaScript
+
+        {{0 |>}}
+[LiaScript](https://github.com/LiaScript/LiaScript) ist eine Erweiterung von Markdown zur Unterstützung der Erstellung von kostenlosen und offenen Online-Kursen, interaktiven Büchern und somit von Open Educational Resources (OER). Kurse sind einfache Textdateien, die von jedermann frei gehostet und erstellt werden können, ähnlich wie Open-Source-Projekte.
+
+Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript erklärt, wie man es benutzt und einige Anwendungen zeigt:
+
+!?[Wie kann Web 3.0 Lehre retten](https://www.youtube.com/watch?v=y6tBVNe6mWw "Wie kann Web 3.0 Lehre retten? - Andre Dietrich & Sebastian Zug - University:Future Festival 2023.")
 
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
@@ -296,15 +304,6 @@ Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
 Wie fandet ihr den Kurs?
 
 [[___]]
-
-## LiaScript
-
-        {{0 |>}}
-[LiaScript](https://github.com/LiaScript/LiaScript) ist eine Erweiterung von Markdown zur Unterstützung der Erstellung von kostenlosen und offenen Online-Kursen, interaktiven Büchern und somit von Open Educational Resources (OER). Kurse sind einfache Textdateien, die von jedermann frei gehostet und erstellt werden können, ähnlich wie Open-Source-Projekte.
-
-Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript erklärt, wie man es benutzt und einige Anwendungen zeigt:
-
-!?[Wie kann Web 3.0 Lehre retten](https://www.youtube.com/watch?v=y6tBVNe6mWw "Wie kann Web 3.0 Lehre retten? - Andre Dietrich & Sebastian Zug - University:Future Festival 2023.")
 
 ## externe Tools
 
