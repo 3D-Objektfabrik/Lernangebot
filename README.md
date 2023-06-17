@@ -32,7 +32,7 @@ Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jug
 ![Schoko-3D-Druckers](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3dprint.jpg)
 
     {{1-2 |>}}
-Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz. Durch die E-Learning-Einheiten führt der Schoko-3D-Drucker quasi selbst – personifiziert als „Charlie der Schoko-Robot“ begleitet er die Teilnehmenden durch den Kurs und zeigt und erklärt ihnen die Funktionen seiner „fantastischen 3D-Objektfabrik“. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
+Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz. Durch die E-Learning-Einheiten führt der Schoko 3D-Drucker quasi selbst – personifiziert als „**Charlie der Schoko-Robot**“ begleitet er die Teilnehmenden durch den Kurs und zeigt und erklärt ihnen die Funktionen seiner „fantastischen 3D-Objektfabrik“. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
     {{1-2}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)
@@ -245,7 +245,7 @@ Das sind nur einige Beispiele für verschiedene Arten von 3D-Druck. Jede Methode
     {{13-14}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
 
-### Quiz
+#### Quiz
     {{0-1|>}}
 Puh, das war schon eine ganze Menge an Informationen. An was erinnerst du dich noch? Probiere das Quiz aus.
 
@@ -346,7 +346,7 @@ Nicht zu vergessen die **An/Auschalter**.
     {{6-7}}
 ![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/an-ausschalter.png)
 
-### Quiz
+#### Quiz
 
     {{0-1|>}}
 Jetzt kennst du bereits meine Bauteile. Hier ist ein Bild, auf dem nochmals alle Teile abgebildet sind. Kannst du sie noch benennen?
@@ -374,7 +374,7 @@ Jetzt kennst du bereits meine Bauteile. Hier ist ein Bild, auf dem nochmals alle
     [( ) (X) ( ) ( )]  Silikonmatte
     [(X) ( ) ( ) ( )]  Kartuschenhalter
 
-### Leckere Anleitung: Verwende den 3D-Schokoladendrucker für süße Kreationen
+### Die Druckvorbereitung
 
     {{0-1 |>}}
 Als nächstes musst du noch wissen, wie und in welcher Reihenfolge du mich zusammensetzen kannst.
@@ -382,17 +382,122 @@ Als nächstes musst du noch wissen, wie und in welcher Reihenfolge du mich zusam
     {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
 
-## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
-## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
-## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
-## Evaluation [00:10h]
+   {{1 |>}}
+Als erstes schaltest du mich ein.
 
-## Classroom
+   {{1-2}}
+![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/an-ausschalter.png)
+
+   {{2 |>}}
+Lege eine Silikonmatte auf den Drucktisch.
+
+   {{2-3}}
+![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch1.jpg)
+
+   {{3 |>}}
+Jetzt geht’s an die Schokolade. Schneide die Schokolade auf der Hälfte. Die Folie ist extra für Hitze gemacht und bleibt um die Schokolade.
+
+   {{3-4}}
+![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade1.jpg)
+
+   {{4 |>}}
+Stecke die eine Hälfte der Schokolade mit dem der Schnittfläche nach unten in die Kartusche.
+
+   {{4-5}}
+![Schokolade+Kartusche](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf1.jpg)
+
+   {{5 |>}}
+Stecke die Kartusche in den Kartuschenhalter.
+
+   {{5-6}}
+![Kartuschenhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche.jpg)
+
+   {{6 |>}}
+In diesem Video siehst du, wie du nun die Kartusche einsetzen kannst.
+
+   {{6-7}}
+!?[Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/videos/IMG_7301.MOV)
+
+   {{7 |>}}
+Jetzt wähle über das Touch-Display „Kartusche einsetzen“ aus.
+
+   {{7-8}}
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch-Display.JPG)
+
+   {{8 |>}}
+Wenn du die Kartusche angebracht hast, tippe im Display auf „fertig“. Jetzt bist du schon fast soweit.
+
+   {{8-9}}
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
+
+   {{9 |>}}
+Gehe nun im Menü auf „Drucken“ und wähle ein Motiv aus. Das kann nun erstmal ein beliebiges sein. Wir erstellen gleich gemeinsam noch ein Motiv für dich.   
+
+   {{9-10}}
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
+
+   {{10 |>}}
+Bevor der Druck nun beginnen kann, heize ich vor und verflüssige die Schokolade.
+
+   {{10-11}}
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
+
+#### Quiz
+
+    {{0-1|>}}
+Nun kennst du alle Schritte für die Druckvorbereitung. Mit meiner menschlichen Kollegin wirst du das Gelernte gleich praktisch anwenden. <br><br> Komm, lass uns vorab noch einmal üben, was wir gelernt haben!
+
+    {{0-1}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
+
+    {{1-2|>}}
+Was ist der erste Schritt, um den Schokoladen 3D-Drucker zusammenzusetzen?
+
+    {{1-2}}
+[(X)] Schalte ihn ein.
+[( )] Lege eine Silikonmatte auf den Drucktisch.
+[( )] Schneide die Schokolade in der Mitte.
+[( )] Stecke die Kartusche ein.
+
+    {{2-3|>}}
+Was sollte mit der Schokolade vor dem Einsetzen in die Kartusche gemacht werden?
+
+    {{2-3}}
+[( )] ein Stückchen essen.
+[( )] Wickel sie in Folie ein.
+[(X)] Schneide die Schokolade auf der Hälfte.
+[( )] Forme sie zu einer Kugel.
+
+    {{3-4|>}}
+Wo sollte die Kartusche platziert werden?
+
+    {{3-4}}
+[( )] Im Display.
+[(X)] Im Kartuschenhalter.
+[( )] Auf dem Touchscreen.
+[( )] Auf der Silikonmatte.
+
+    {{4-5|>}}
+Was sollte nach dem Einsetzen der Kartusche auf dem Touch-Display ausgewählt werden?
+
+    {{4-5}}
+[( )] "Drucken".
+[( )] "Schneiden".
+[( )] "Aufheizen".
+[(X)] "Fertig".
+
+## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
+### Leckere Anleitung: Verwende den 3D-Schokoladendrucker für süße Kreationen
+*Praktischer Teil in der Bücherei*
+
+## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
+*Praktischer Teil in der Bücherei*
+
+## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
+*Praktischer Teil in der Bücherei*
+
+## Evaluation [00:10h]
 
 Wie fandet ihr den Kurs?
 
 [[___]]
-
-## externe Tools
-
-??[scratch](https://scratch.mit.edu/projects/859966397/)
