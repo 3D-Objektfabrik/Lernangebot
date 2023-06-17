@@ -7,8 +7,7 @@ narrator: Deutsch Male
 
 logo: https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/logo.png
 
-comment:  Informationsdidaktik und E-Learning: <br><br> Die fantastische 3D-Objektfabrik:
-          lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
+comment:  *Lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!* <br><br> Informationsdidaktik und E-Learning (WPM T5)
 
 link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 -->
