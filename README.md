@@ -297,7 +297,7 @@ Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
 ## LE2: Wie nutze und bediene ich den 3D-Schokodrucker? [00:15h]
 
     {{0-1 |>}}
-Jetzt weißt du schon eine ganze Menge über die Funktionsweise des 3D-Drucks, besonders über Schokoladen-3D-Druck. Als nächstes schauen wir uns gemeinsam an, wie man wie man mich, also den Schoko-3D-Drucker, zusammensetzt und auf einen Druck vorbereitet.
+Jetzt weißt du schon eine ganze Menge über die Funktionsweise des 3D-Drucks, besonders über Schokoladen 3D-Druck. Als nächstes schauen wir uns gemeinsam an, wie man wie man mich, also den Schoko 3D-Drucker, zusammensetzt und auf einen Druck vorbereitet.
 
     {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
