@@ -101,25 +101,13 @@ Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript er
 
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
-    {{0-1}}
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
-
-    {{1-2}}
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
-
-    {{2-3}}
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
-
-    {{3-4}}
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
-
-    {{4-5}}
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/e.png)
-
     {{0-1 |>}}
 Hi, ich bin **Charlie**, der Schokoladenroboter. Genauer gesagt, bin ich ein Schokoladen 3D Drucker. Willkommen in meiner Schokoladenfabrik!
 Ich möchte dir heute gerne erklären, wie der Schokoladen 3D-Druck funktioniert und gemeinsam mit dir etwas Leckeres aus Schokolade erschaffen.
 Wenn du bereit bist, tippe auf den „Weiter“-Pfeil unten auf der Seite und wir beginnen.
+
+    {{0-1}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
 
     {{1-2 |>}}
 Wunderbar ! Bevor wir starten, habe ich noch eine Frage an dich.
@@ -144,16 +132,29 @@ Was weißt du bereits über das Thema 3D-Druck? Wähle die Antwort, die am beste
         }
     </script>
 
+    {{1-2}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
+
     {{2-3 |>}}
 Als erstes zeige ich dir, wie der Schokoladen 3D-Druck funktioniert und welche weiteren Arten von 3D-Druck es gibt.
 Dann lernst du, wie man einen Schokoladen 3D-Drucker wie mich aufbaut und benutzt.
+
+    {{2-3}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
 
     {{3-4 |>}}
 Jetzt kommt der praktische Teil! Mit meiner menschlichen Kollegin setzt du den Schokoladen 3D-Drucker zusammen.
 Danach wirst du sogar die Gelegenheit haben, dein eigenes 3D-Modell zu erstellen und es aus Schokolade zu drucken!
 
+    {{3-4}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
+
     {{4-5 |>}}
 Also sei gespannt und bereit, eine Menge zu lernen und Spaß zu haben. Ich werde dich Schritt für Schritt begleiten, damit du ein kleiner Experte für Schokoladen 3D-Druck wirst. Los geht’s!
+
+    {{4-5}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/e.png)
+
 
 ### Was ist ein 3D-Drucker?
 
@@ -294,6 +295,38 @@ Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
     [( )] Obst, Gemüse und Tiere
 
 ## LE2: Wie nutze und bediene ich den 3D-Schokodrucker? [00:15h]
+
+    {{0-1 |>}}
+Jetzt weißt du schon eine ganze Menge über die Funktionsweise des 3D-Drucks, besonders über Schokoladen-3D-Druck. Als nächstes schauen wir uns gemeinsam an, wie man wie man mich, also den Schoko-3D-Drucker, zusammensetzt und auf einen Druck vorbereitet.
+
+    {{0-1}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
+
+    {{1-2 |>}}
+Als erstes möchte ich dir meine Bauteile vorstellen:
+
+    {{1-2}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
+
+    {{2-3 |>}}
+Das ist der **Gerätekorpus**, also quasi mein Körper. Hier steckt der Motor und die Technik drin, die mich antreibt.
+
+    {{2-3}}
+![Gerätekorpus](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Gerätekorpus.png)
+
+    {{3-4 |>}}
+Der bewegliche Teil hier ist der **Druckkopf**. Er setzt sich aus mehreren Teilen zusammen: dem Kartuschenhalter, in den die mit Schokolade befüllte Kartusche eingelegt wird und dem Kolben, der die Schokolade aus der Kartusche herausdrückt.
+
+    {{3-4}}
+![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
+
+    {{4-5 |>}}
+Auf den Drucktisch wird eine Silikonmatte gelegt. Dort wird dann das Objekt gedruckt.
+
+    {{4-5}}
+![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch1.jpg)
+
+
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
 ## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
