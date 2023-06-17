@@ -348,6 +348,12 @@ Nicht zu vergessen die **An/Auschalter**.
 
 ### Die Reihenfolge der Bedienung des 3D-Schokoladedruckers
 
+    {{0-1 |>}}
+Als nächstes musst du noch wissen, wie und in welcher Reihenfolge du mich zusammensetzen kannst.
+
+    {{0-1}}
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
+
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
 ## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
