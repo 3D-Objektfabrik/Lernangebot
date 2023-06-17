@@ -487,7 +487,6 @@ Was sollte nach dem Einsetzen der Kartusche auf dem Touch-Display ausgewählt we
 [(X)] "Fertig".
 
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
-### Leckere Anleitung: Verwende den 3D-Schokoladendrucker für süße Kreationen
 *Praktischer Teil in der Bücherei*
 
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
