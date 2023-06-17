@@ -323,11 +323,28 @@ Der bewegliche Teil hier ist der **Druckkopf**. Er setzt sich aus mehreren Teile
 ![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
 
     {{4-5 |>}}
-Auf den Drucktisch wird eine Silikonmatte gelegt. Dort wird dann das Objekt gedruckt.
+Auf den **Drucktisch** wird eine Silikonmatte gelegt. Dort wird dann das Objekt gedruckt.
 
     {{4-5}}
 ![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch1.jpg)
 
+    {{5-6 |>}}
+Hier wird die **SD-Karte** eingesteckt, auf der die Daten für den Druck stecken.
+
+    {{5-6}}
+![SD-Kartenslot](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/SD-Kartenslot.JPG)
+
+    {{6-7 |>}}
+Das **Touch-Display** ist meine Bedieneinheit. Darüber kannst du den Drucker steuern: das Einlegen und Entnehmen der Kartusche, die Reinigung des Kolbens, das zu druckende Objekt auswählen und natürlich den Druck starten.
+
+    {{6-7}}
+![Touch-Display](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch-Display.JPG)
+
+    {{7-8 |>}}
+Nicht zu vergessen die **An/Auschalter**.
+
+    {{7-8}}
+![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/an-ausschalter.png)
 
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
