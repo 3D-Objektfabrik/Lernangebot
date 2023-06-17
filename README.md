@@ -1,15 +1,16 @@
 <!--
-author:   Informationsdidaktik und E-Learning
-email:    your@mail.org
+author:  Diego Siqueira & Friederike Gernreich
+email:   stadtbuecherei@haltern.de
 version:  0.0.1
 language: de
 narrator: Deutsch Male
 
-comment:  Die fantastische 3D-Objektfabrik:
+logo: https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/logo.png
+
+comment:  Informationsdidaktik und E-Learning: Die fantastische 3D-Objektfabrik:
           lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 
 link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
-
 -->
 
 # Die fantastische 3D-Objektfabrik
