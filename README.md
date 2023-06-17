@@ -7,7 +7,7 @@ narrator: Deutsch Male
 
 logo: https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/logo.png
 
-comment:  Informationsdidaktik und E-Learning: Die fantastische 3D-Objektfabrik:
+comment:  Informationsdidaktik und E-Learning: <br><br> Die fantastische 3D-Objektfabrik:
           lerne auf lustige Weise, wie man einen 3D-Schoko-Drucker verwendet!
 
 link:   https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
