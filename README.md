@@ -346,7 +346,35 @@ Nicht zu vergessen die **An/Auschalter**.
     {{6-7}}
 ![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/an-ausschalter.png)
 
-### Die Reihenfolge der Bedienung des 3D-Schokoladedruckers
+### Quiz
+
+    {{0-1|>}}
+Jetzt kennst du bereits meine Bauteile. Hier ist ein Bild, auf dem nochmals alle Teile abgebildet sind. Kannst du sie noch benennen?
+
+    {{0-1}}
+![Overview](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/overview.png)
+
+    {{1-3|>}}
+**Markiere die Spalten, die den zugehörigen Bildern für die Bauteil-Bezeichnungen entsprechen.**
+
+    {{1-3}}
+![Numbered overview](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/numbered-overview.png)
+
+    {{1-2}}
+    [(1) (2) (3) (4)]
+    [( ) ( ) (X) ( )]  Druckkopf
+    [(X) ( ) ( ) ( )]  Touch-Display
+    [( ) ( ) ( ) (X)]  Drucktisch
+    [( ) (X) ( ) ( )]  SD-Kartenslot
+
+    {{2-3}}
+    [(5) (6) (7) (8)]
+    [( ) ( ) ( ) (X)]  An/Auschalter
+    [( ) ( ) (X) ( )]  Schokolade befüllte Kartusche
+    [( ) (X) ( ) ( )]  Silikonmatte
+    [(X) ( ) ( ) ( )]  Kartuschenhalter
+
+### Leckere Anleitung: Verwende den 3D-Schokoladendrucker für süße Kreationen
 
     {{0-1 |>}}
 Als nächstes musst du noch wissen, wie und in welcher Reihenfolge du mich zusammensetzen kannst.
