@@ -26,7 +26,7 @@ Die fantastische 3D-Objektfabrik: Lerne auf lustige Weise, wie man einen 3D-Scho
 ## Konzept
 
     {{0-1 |>}}
-Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko-3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen.
+Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko 3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen.
 
     {{0-1}}
 ![Schoko-3D-Druckers](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3dprint.jpg)
@@ -253,7 +253,7 @@ Puh, das war schon eine ganze Menge an Informationen. An was erinnerst du dich n
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
 
     {{1-2 |>}}
-Welches Material verwendet Jürgen, der Kunststoff-3D-Drucker normalerweise?
+Welches Material verwendet Jürgen, der Kunststoff 3D-Drucker normalerweise?
 
     {{1-2}}
     [( )] Metall
@@ -287,7 +287,7 @@ Wie wird die Schokolade beim Schokoladen 3D-Druck verwendet?
     [( )] Sie wird zu kleinen Kügelchen geformt.
 
     {{5-6 |>}}
-Welche Art von Objekten kann man mit Kunststoff-3D-Druck herstellen?
+Welche Art von Objekten kann man mit Kunststoff 3D-Druck herstellen?
 
     {{5-6}}
     [(X)] Spielzeug, Schmuck und Ersatzteile
