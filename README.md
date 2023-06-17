@@ -302,6 +302,8 @@ Jetzt weißt du schon eine ganze Menge über die Funktionsweise des 3D-Drucks, b
     {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
 
+### Die Bauteile
+
     {{1-2 |>}}
 Als erstes möchte ich dir meine Bauteile vorstellen:
 
