@@ -487,7 +487,89 @@ Was sollte nach dem Einsetzen der Kartusche auf dem Touch-Display ausgewählt we
 [(X)] "Fertig".
 
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
+
 *Praktischer Teil in der Bücherei*
+
+{{0-1|>}}
+Die TN kommen nach Beendigung der LE2 für die praktische Übung am Schoko-3D-Drucker im Kellerraum zusammen.
+
+{{1-2|>}}
+Der Raum ist wie folgt vorbereitet:
+
+{{1-2}}
+Auf dem Smart-TV ist die Folie der LE3 des digitalen Kurses eingeblendet, auf der Charlie zu sehen ist und die TN zu eben dieser begrüßt.
+
+{{1-2|> Deutsch Female}}
+"Hallo Kinder"
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
+
+{{1-2}}
+Vor dem Bildschirm auf einem Tisch steht der Schokodrucker bereit und ist an den Strom angeschlossen, aber noch nicht eingeschaltet.
+
+{{2-3}}
+Daneben aufgebaut und bereitgelegt sind:
+
+{{2-3}}
+ * Die Bauteile:
+
+   - Drucktisch
+
+   - Silikonmatte
+
+   - Kolben
+
+   - Kartuschenhalter
+
+   - Kartusche
+   ![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG "**Druckkopf**")
+   ![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch1.jpg)
+   ![SD-Kartenslot](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/SD-Kartenslot.JPG)
+   ![Touch-Display](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch-Display.JPG)
+
+ * Das Material:
+
+   - Schokoladenrollen
+
+ * benötigte Hilfsmittel:
+   - Schneidebrett
+
+   - Messer
+   - Pinzette
+   - Teller
+   - Feuchttücher
+   - Papiertücher
+
+ * Sonstiges:
+
+   - Handdesinfektion
+
+{{2-3}}
+Vier weitere Tische bzw. Sitzgelegenheiten für die TN sind in Vorbereitung auf LE4 so aufgebaut, dass die TN gute Sicht auf das Smart-TV haben.
+
+{{3-4}}
+Ablauf:
+Die Lehrperson begleitet die TN in den Kellerraum. Die TN suchen sich einen Platz und legen ihre Tablets beiseite.
+
+{{4-5}}
+Nochmalige Begrüßung durch die Lehrperson.
+Rekapitulation des bisher Gelernten und Ausblick auf das Kommende.
+Rückfragen zu den ersten beiden LE:
+-	Was wurde in den ersten beiden LE vermittelt?
+-	Gab es Verständnisschwierigkeiten?
+-	Was ist der Auftrag für diese LE? Eine/r der TN wiederholt den Auftrag, ggf. ergänzt durch weitere Beiträge anderer TN.
+Auftrag: Setzt den Schoko-3D-Drucker zusammen und bereitet ihn für den Druck vor.
+
+{{5-6}}
+Bevor die TN an den Tisch und das Gerät gehen, erfolgt ein Hinweis zur Hygiene.
+Die TN waschen sich die Hände und nutzen Handdesinfektion.
+
+{{6-7}}
+Gemeinsam werden die bereits bekannten Bauteile und das Material identifiziert, der Drucker zusammengesetzt und die Vorheizphase gestartet. Die Lehrperson unterstützt, wenn nötig bei den einzelnen Schritten.
+
+{{7-8}}
+<!-- style="background-color: tomato; color: white;"-->
+Während der Drucker vorheizt, starten die TN die nächste Lerneinheit.
+
 
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
 *Praktischer Teil in der Bücherei*
