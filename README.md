@@ -634,3 +634,10 @@ Praktische Aufgabe: Druck und Kontrolle des eigenen 3D-Objekts)
 Wie fandet ihr den Kurs?
 
 [[___]]
+
+Was halten Sie von LiaScript?
+
+[(Stimme zu)(Stimme eher zu)(Wieder noch)(Stimme eher nicht zu)(Stimme nicht zu)]
+    [                                             ] LiaScript ist großartig!
+    [                                             ] Ich würde es verwenden, um Online-Kurse **zu erstellen**.
+    [                                             ] Ich würde es für **Online-Umfragen** verwenden.
