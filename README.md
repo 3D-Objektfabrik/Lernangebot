@@ -491,7 +491,7 @@ Was sollte nach dem Einsetzen der Kartusche auf dem Touch-Display ausgewählt we
 > __Praktischer Teil in der Bücherei__
 
 {{0-1|>}}
-Die TN kommen nach Beendigung der LE2 für die praktische Übung am Schoko-3D-Drucker im Kellerraum zusammen.
+Die TN kommen nach Beendigung der LE2 für die praktische Übung am Schoko 3D-Drucker im Kellerraum zusammen .
 
 {{1-2|>}}
 Der Raum ist wie folgt vorbereitet:
