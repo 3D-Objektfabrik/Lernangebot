@@ -488,7 +488,7 @@ Was sollte nach dem Einsetzen der Kartusche auf dem Touch-Display ausgewählt we
 
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
 
-*Praktischer Teil in der Bücherei*
+> __Praktischer Teil in der Bücherei__
 
 {{0-1|>}}
 Die TN kommen nach Beendigung der LE2 für die praktische Übung am Schoko-3D-Drucker im Kellerraum zusammen.
@@ -572,7 +572,8 @@ Während der Drucker vorheizt, starten die TN die nächste Lerneinheit.
 
 
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
-*Praktischer Teil in der Bücherei*
+
+> __Praktischer Teil in der Bücherei__
 
 Option:
 
@@ -614,7 +615,8 @@ Slicing der STL-Dateien
 
 
 ## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
-*Praktischer Teil in der Bücherei*
+
+> __Praktischer Teil in der Bücherei__
 
 Die Lehrkraft führt das Vorgehen vor. Folgende Schritte werden durchlaufen:
 1.	„Drucken“ im Menü anwählen
