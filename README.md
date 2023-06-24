@@ -574,6 +574,45 @@ Während der Drucker vorheizt, starten die TN die nächste Lerneinheit.
 ## LE4: 3D-Schoko-Druckobjekt modellieren und für Druck vorbereiten [00:30h]
 *Praktischer Teil in der Bücherei*
 
+Option:
+
+Modul ist optional, und kann, wenn die TN-Gruppe überwiegend aus jüngeren Kindern (ca. 8-11 Jahren) besteht und/oder wenn nicht genügend Zeit zur Verfügung steht, entfallen.
+
+Alternativ nutzen die TN die Vorheizzeit des Druckers [ca. 12 Minuten], um ein Motiv aus der vorhandenen Objektbibliothek auszuwählen.
+
+Zusammenhänge erklären:
+
+Wenn wir etwas in 3D drucken wollen, müssen wir vorher ein 3D-Modell erstellen.
+
+Für das Erstellen von 3D-Modellen gibt es spezielle Computerprogramme, sogenannte CAD-Programme. CAD steht für computer-aided design, also computer -unterstütztes Konstruieren.
+
+Mit so einer Software können unterschiedlichste Modelle zusammengebaut werden. Es gibt zwei verschiedene Arten ein Modell zu konstruieren.
+
+Eine Art ist die organische Modellierung. Diese Variante wird für das Erstellen natürlicher Objekte mit komplexer Oberfläche, wie zum Beispiel Tierformen, genutzt.
+Bei dieser Methode wird die Objektoberfläche mit einem Gitternetz simuliert, welches aus vielen kleinen Dreiecken besteht. Durch Ziehen und Schieben kann die Form beliebig angepasst werden.
+Das Erstellen von Modellen per Hand ist mit dieser Methode aber sehr schwierig und benötigt viel Übung oder weitere Hilfsmittel, wie zum Beispiel 3D-Scanner, der die Form des Objektes übertragen können.
+
+Eine weitere Methode ist das Modellieren von Objekten mithilfe geometrischer Formen. Dabei wird aus diesen Formen, also zum Beispiel aus einer Kugel und einem Kegel, eine neue Form zusammengesetzt. In diesem Fall könnten diese beiden Formen zum Beispiel einen Kopf mit einem Spitzhut darstellen.
+Ist das Modell fertig, wird es als STL-Datei gespeichert. Das ist ein spezielles Format für 3D-Modelle. Eine STL-Datei ist wie eine Bauanleitung für den 3D-Drucker, die ihm sagt, wie das Modell aussehen soll.
+
+Bevor die Datei gedruckt werden kann, muss sie aber noch durch ein weiteres Programm laufen: Eine „Slicer“-Software. „Slicer“ kommt vom englischen Wort „to slice“ und bedeutet in Scheiben schneiden. Wir haben bereits gelernt, dass ein 3D-Drucker Schicht für Schicht von unten nach oben druckt. Die Slicer-Software zerschneidet das 3D-Modell so, dass der Drucker die einzelnen Scheiben/Schichten nacheinander drucken kann.
+
+Einleitung/Überleitung zur Aufgabe:
+
+Wir lernen heute die Software Tinkercad kennen. Tinkercad ist eine webbasierte 3D-Modellierungsftware, die speziell für Anfänger und Kinder entwickelt wurde und die das geometrische Verfahren für die Modellierung nutzt.
+
+Meine menschliche Kollegin wird euch jetzt das Programm und seine Funktionen zeigen und ihr werdet gemeinsam ein 3D-Modell erstellen.
+
+Klickt dafür auf den Link auf der nächsten Seiten und los geht’s.
+
+Weiterer Ablauf:
+Anmelden im Tinkercad-Klassenraum
+Gemeinsames Erstellen eines Smileys [Anleitung ChatGPT]
+Speichern der Modelle als STL-Datei
+Slicing der STL-Dateien
+Übertragen der Dateien auf den Drucker
+
+
 ## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
 *Praktischer Teil in der Bücherei*
 
