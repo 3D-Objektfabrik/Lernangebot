@@ -102,7 +102,7 @@ Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript er
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
     {{0-1 |>}}
-Hi, ich bin **Charlie**, der Schokoladenroboter. Genauer gesagt, bin ich ein Schokoladen 3D Drucker. Willkommen in meiner Schokoladenfabrik!
+Hi, ich bin **Charlie**, der Schokoladenroboter. Genauer gesagt, bin ich ein Schokoladen 3D Drucker. Willkommen in meiner Schokoladenfabrik!<br><br>
 Ich möchte dir heute gerne erklären, wie der Schokoladen 3D-Druck funktioniert und gemeinsam mit dir etwas Leckeres aus Schokolade erschaffen.
 Wenn du bereit bist, tippe auf den „Weiter“-Pfeil unten auf der Seite und wir beginnen.
 
@@ -143,7 +143,7 @@ Dann lernst du, wie man einen Schokoladen 3D-Drucker wie mich aufbaut und benutz
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
 
     {{3-4 |>}}
-Jetzt kommt der praktische Teil! Mit meiner menschlichen Kollegin setzt du den Schokoladen 3D-Drucker zusammen.
+Und dann kommt der praktische Teil! Mit meiner menschlichen Kollegin setzt du den Schokoladen 3D-Drucker zusammen.
 Danach wirst du sogar die Gelegenheit haben, dein eigenes 3D-Modell zu erstellen und es aus Schokolade zu drucken!
 
     {{3-4}}
@@ -164,85 +164,89 @@ Ein 3D-Drucker ist eine Maschine, die dreidimensionale Gegenstände aus verschie
     {{0-1}}
 ![3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d1.gif)
 
-    {{1 |>}}
+### Wie funktioniert ein 3D-Drucker?
+
+    {{0-1|>}}
 Der Schokoladen 3D-Druck beginnt mit einem digitalen Entwurf, also einem virtuellen Modell, das jemand am Computer erstellt. Dort können wir die Form, Größe und Details festlegen. Es ist wie eine Bauanleitung für den 3D-Drucker.Dieses Modell kann alles sein: von Figuren und Formen bis hin zu Pralinen oder sogar kleinen Häusern.
 
-    {{1-2}}
+    {{0-1}}
 ![Schokoladen-3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d2.gif)
 
-    {{2 |>}}
+    {{1 |>}}
 Sobald der Entwurf fertig ist, wird er an mich, Charlie, den Schokoladenroboter, gesendet. Ich habe eine spezielle Software und Mechanismen, die es mir ermöglichen, die Schokolade in genau der richtigen Weise zu schmelzen und zu formen
 
-    {{2-3}}
+    {{1-2}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
 
-    {{3 |>}}
+    {{2 |>}}
 Die Schokolade wird in einen Behälter gefüllt, der an meinem Kopf befestigt ist und ich erwärme die Schokolade, bis sie flüssig ist. Dann beginnt der eigentliche Druckvorgang. Ich bewege mich sehr präzise und Schicht für Schicht wird die flüssige Schokolade ausgedruckt. Dabei entsteht nach und nach das gewünschte Objekt.
 
-    {{3-4}}
+    {{2-3}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
 
-    {{4 |>}}
-Die Schokolade kühlt ab und erstarrt, sobald sie aus dem Druckkopf kommt. Dadurch behält sie ihre Form und wird fest. Auf diese Weise kann ich Schicht für Schicht eine Schokoladenfigur oder eine andere Leckerei aufbauen.
+    {{3 |>}}
+Die Schokolade kühlt ab und erstarrt, sobald sie aus dem Druckkopf kommt. Dadurch behält sie ihre Form und wird fest. Auf diese Weise kann ich Schicht für Schicht eine Schokoladenfigur oder eine andere Leckerei aufbauen .
 
-    {{4-5}}
+    {{3-4}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
 
-    {{5 |>}}
+    {{4 |>}}
 Am Ende des Druckvorgangs kann die Schokolade aus dem Drucker genommen werden und ist bereit zum Genießen! Man kann sie essen oder verschenken oder einfach nur bewundern, wie schön sie geworden ist.
 
 <!--
 class="animate__animated animate__backInUp"
 -->
-    {{5-6}}
+    {{4-5}}
 ![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade.png)
 
-    {{6 |>}}
+### Welche Arten von 3D-Druckern gibt es?
+
+    {{0 |>}}
 Es gibt tatsächlich verschiedene Arten von 3D-Druck. Neben dem Schokoladen 3D-Druck, den ich mache, gibt es noch viele weitere Möglichkeiten, Dinge mit einem 3D-Drucker herzustellen.
 
-    {{6-7}}
+    {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
 
-    {{7 |>}}
+    {{1 |>}}
 Ich möchte dir meinen Freund Jürgen vorstellen. Er arbeitet auch hier. Jürgen ist ein Kunststoff 3D-Drucker. Genau wie ich, kann auch Jürgen wundervolle Dinge drucken, aber mit Kunststoff anstatt mit Schokolade.
 
-    {{7-8}}
+    {{1-2}}
 ![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj1.png)
 
-   {{8 |>}}
+   {{2 |>}}
 Jürgen mag am liebsten P L A-Filament. P L A – das steht für Polylactid - ist ein beliebtes Material im 3D-Druck und hat viele Vorteile. Es ist ein biologisch abbaubarer Kunststoff, der aus nachwachsenden Rohstoffen wie Maisstärke oder Zuckerrohr hergestellt wird. P L A ist umweltfreundlich und bietet eine gute Kombination aus Festigkeit, Haltbarkeit und Druckbarkeit.
 
-   {{8-9}}
+   {{2-3}}
 ![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj2.png)
 
-   {{9 |>}}
+   {{3 |>}}
 Mit dieser Art 3D-Druck können viele verschiedene Dinge hergestellt werden: Spielzeug, Schmuck, Ersatzteile und vieles mehr. Es ist eine aufregende Technologie, die es uns erlaubt, unserer Fantasie freien Lauf zu lassen und unsere eigenen Objekte zu erschaffen.
 
-   {{9-10}}
+   {{3-4}}
 ![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj3.png)
 
-   {{10 |>}}
+   {{4 |>}}
 Es gibt aber noch viel mehr von uns 3D-Druckern, die alle mit unterschiedlichen Materialien arbeiten. Zum Beispiel gibt es Metall 3D-Drucker. Mit ihrer Technologie kann man Metallgegenstände drucken. Das ist besonders nützlich für die Herstellung von Werkzeugen, Prototypen in der Industrie oder sogar für medizinische Implantate.
 
-   {{10-11}}
+   {{4-5}}
 ![Metall-3D-Drucker](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d3.gif)
 
-   {{11 |>}}
+   {{5 |>}}
 Es gibt auch Keramik 3D-Drucker. Sie nutzen Keramikmaterialien wie Ton oder Porzellan, um dreidimensionale Objekte zu drucken. Das wird oft für Kunstwerke, Vasen oder sogar maßgeschneiderte Tassen verwendet.
 
-   {{11-12}}
+   {{5-6}}
 ![Keramik-3D-Drucker](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d4.gif)
 
-    {{12 |>}}
+    {{6 |>}}
 Außerdem gibt es Bio 3D-Drucker. Hierbei werden lebende Zellen und Biomaterialien verwendet, um Gewebe oder sogar Organe zu drucken. Das ist eine aufregende Technologie, die in der medizinischen Forschung und bei der Entwicklung von neuen Behandlungsmöglichkeiten zum Einsatz kommt.
 
-    {{12-13}}
+    {{6-7}}
 ![Bio-3D-Drucker](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d5.gif)
 
-    {{13 |>}}
+    {{7 |>}}
 Das sind nur einige Beispiele für verschiedene Arten von 3D-Druck. Jede Methode hat ihre eigenen besonderen Eigenschaften und Anwendungen. Es ist erstaunlich, wie vielseitig der 3D-Druck sein kann!
 
-    {{13-14}}
+    {{7-8}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
 
 #### Quiz
@@ -297,7 +301,7 @@ Welche Art von Objekten kann man mit Kunststoff 3D-Druck herstellen?
 ## LE2: Wie nutze und bediene ich den 3D-Schokodrucker? [00:15h]
 
     {{0-1 |>}}
-Jetzt weißt du schon eine ganze Menge über die Funktionsweise des 3D-Drucks, besonders über Schokoladen 3D-Druck. Als nächstes schauen wir uns gemeinsam an, wie man wie man mich, also den Schoko 3D-Drucker, zusammensetzt und auf einen Druck vorbereitet.
+Jetzt weißt du schon eine ganze Menge über die Funktionsweise des 3D-Drucks, besonders über Schokoladen 3D-Druck. Als nächstes schauen wir uns gemeinsam an, wie man mich, also den Schoko 3D-Drucker, zusammensetzt und auf einen Druck vorbereitet.
 
     {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/a.png)
@@ -314,42 +318,43 @@ Als erstes möchte ich dir meine Bauteile vorstellen:
 Das ist der **Gerätekorpus**, also quasi mein Körper. Hier steckt der Motor und die Technik drin, die mich antreibt.
 
     {{1-2}}
-![Gerätekorpus](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Gerätekorpus.png)
+![Gerätekorpus](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Gerätekorpus_schräg_300px.jpg "Gerätekorpus")
 
     {{2-3 |>}}
-Der bewegliche Teil hier ist der **Druckkopf**. Er setzt sich aus mehreren Teilen zusammen: dem Kartuschenhalter, in den die mit Schokolade befüllte Kartusche eingelegt wird und dem Kolben, der die Schokolade aus der Kartusche herausdrückt.
+Der bewegliche Teil hier ist der **Druckkopf**. Er setzt sich aus zwei Teilen zusammen: dem Kartuschenhalter und der Kartusche, in die die Schokolade eingefüllt wird.
 
     {{2-3}}
-![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
+![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche_einsetzen_fertig_300px.gif "Druckkopf") ![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartuschenhalter_Innenansicht_handgehalten_3oopx.jpg "Kartuschenhalter") ![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche_seitlich_in_Hand_300px.jpg "Kartusche")
 
     {{3-4 |>}}
 Auf den **Drucktisch** wird eine Silikonmatte gelegt. Dort wird dann das Objekt gedruckt.
 
     {{3-4}}
-![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch1.jpg)
+![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch_schräg_01_300px.jpg "Drucktisch")
+![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Silikonmatte_draufssicht_300px.jpg "Silikonmatte")
 
     {{4-5 |>}}
 Hier wird die **SD-Karte** eingesteckt, auf der die Daten für den Druck stecken.
 
     {{4-5}}
-![SD-Kartenslot](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/SD-Kartenslot.JPG)
+![SD-Karte](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/SD_Karte_300px.jpg "SD-Karte")![SD-Kartenslot](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/SD_Kartenschlitz_300px.jpg "SD-Kartenslot")
 
     {{5-6 |>}}
 Das **Touch-Display** ist meine Bedieneinheit. Darüber kannst du den Drucker steuern: das Einlegen und Entnehmen der Kartusche, die Reinigung des Kolbens, das zu druckende Objekt auswählen und natürlich den Druck starten.
 
     {{5-6}}
-![Touch-Display](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch-Display.JPG)
+![Touch-Display](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch_Display_300px.jpg "Touch-Display mit Menü")
 
     {{6-7 |>}}
-Nicht zu vergessen die **An/Auschalter**.
+Nicht zu vergessen der **An/Auschalter** auf der Rückseite des Gerätes.
 
     {{6-7}}
-![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/an-ausschalter.png)
+![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/An_Aus_Knopf_300px.jpg "An-/Ausschalter")
 
 #### Quiz
 
     {{0-1|>}}
-Jetzt kennst du bereits meine Bauteile. Hier ist ein Bild, auf dem nochmals alle Teile abgebildet sind. Kannst du sie noch benennen?
+Jetzt kennst du bereits meine Bauteile. Hier ist ein Bild, auf dem alle Teile abgebildet sind. Kannst du sie benennen?
 
     {{0-1}}
 ![Overview](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/overview.png)
@@ -377,7 +382,7 @@ Jetzt kennst du bereits meine Bauteile. Hier ist ein Bild, auf dem nochmals alle
 ### Die Druckvorbereitung
 
     {{0-1 |>}}
-Als nächstes musst du noch wissen, wie und in welcher Reihenfolge du mich zusammensetzen kannst.
+Als nächstes musst du wissen, wie du mich zusammensetzen kannst.
 
     {{0-1}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
@@ -386,61 +391,64 @@ Als nächstes musst du noch wissen, wie und in welcher Reihenfolge du mich zusam
 Als erstes schaltest du mich ein.
 
    {{1-2}}
-![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/an-ausschalter.png)
+![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucker_anschalten_qu.gif)<!--
+style = "width: 300px"-->
 
    {{2 |>}}
 Lege eine Silikonmatte auf den Drucktisch.
 
    {{2-3}}
-![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch1.jpg)
+![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Silikonmatte_auflegen_qu.gif)<!--
+style = "width: 300px"-->
 
    {{3 |>}}
-Jetzt geht’s an die Schokolade. Schneide die Schokolade auf der Hälfte. Die Folie ist extra für Hitze gemacht und bleibt um die Schokolade.
+Jetzt geht’s an die Schokolade. Schneide die Schokolade in der Mitte durch. Die Folie bleibt an der Schokolade.
 
    {{3-4}}
-![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade1.jpg)
+![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade1.jpg)<!--
+style = "width: 300px"-->
 
    {{4 |>}}
-Stecke die eine Hälfte der Schokolade mit dem der Schnittfläche nach unten in die Kartusche.
+Stecke die eine Hälfte der Schokolade mit der Schnittfläche nach unten in die Kartusche.
 
    {{4-5}}
-![Schokolade+Kartusche](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf1.jpg)
+![Schokolade+Kartusche](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf1.jpg)<!--
+style = "width: 300px"-->
 
    {{5 |>}}
 Stecke die Kartusche in den Kartuschenhalter.
 
    {{5-6}}
-![Kartuschenhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche.jpg)
+![Kartuschenhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche_in_Kartuschenhalter_einsetzen_qu.gif)<!--
+style = "width: 300px"-->
 
    {{6 |>}}
-In diesem Video siehst du, wie du nun die Kartusche einsetzen kannst.
+Anschließend wähle über das Touch-Display „Kartusche einsetzen“ aus.
 
    {{6-7}}
-!?[Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/videos/IMG_7301.MOV)
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche_einsetzen_anstossen_qu_schnell.gif)<!--
+style = "width: 300px"-->
 
    {{7 |>}}
-Jetzt wähle über das Touch-Display „Kartusche einsetzen“ aus.
+So setzt du die Kartusche ein.
 
    {{7-8}}
-![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch-Display.JPG)
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche_einsetzen_qu.gif) <!--
+style = "width: 300px"-->
 
    {{8 |>}}
-Wenn du die Kartusche angebracht hast, tippe im Display auf „fertig“. Jetzt bist du schon fast soweit.
+Wenn du die Kartusche angebracht hast, tippe im Display auf „fertig“. Dann bist du schon fast soweit.
 
    {{8-9}}
-![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Kartusche_einsetzen_fertig_qu.gif)<!--
+style = "width: 300px"-->
 
    {{9 |>}}
-Gehe nun im Menü auf „Drucken“ und wähle ein Motiv aus. Das kann nun erstmal ein beliebiges sein. Wir erstellen gleich gemeinsam noch ein Motiv für dich.   
+Gehe im Menü auf „Drucken“. Bevor der Druck beginnt, heize ich vor und verflüssige die Schokolade. In dieser Zeit erstellen wir gleich gemeinsam ein Motiv für dich.   
 
    {{9-10}}
-![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
-
-   {{10 |>}}
-Bevor der Druck nun beginnen kann, heize ich vor und verflüssige die Schokolade.
-
-   {{10-11}}
-![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG)
+![Platzhalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druck_starten_qu.gif)<!--
+style = "width: 300px"-->
 
 #### Quiz
 
