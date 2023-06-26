@@ -583,13 +583,13 @@ Während der Drucker vorheizt, starten die TN die nächste Lerneinheit.
 
 > __Praktischer Teil in der Bücherei__
 
-Option:
+**Option**:
 
 Modul ist optional, und kann, wenn die TN-Gruppe überwiegend aus jüngeren Kindern (ca. 8-11 Jahren) besteht und/oder wenn nicht genügend Zeit zur Verfügung steht, entfallen.
 
 Alternativ nutzen die TN die Vorheizzeit des Druckers [ca. 12 Minuten], um ein Motiv aus der vorhandenen Objektbibliothek auszuwählen.
 
-Zusammenhänge erklären:
+**Zusammenhänge erklären**:
 
 Wenn wir etwas in 3D drucken wollen, müssen wir vorher ein 3D-Modell erstellen.
 
@@ -606,7 +606,7 @@ Ist das Modell fertig, wird es als STL-Datei gespeichert. Das ist ein spezielles
 
 Bevor die Datei gedruckt werden kann, muss sie aber noch durch ein weiteres Programm laufen: Eine „Slicer“-Software. „Slicer“ kommt vom englischen Wort „to slice“ und bedeutet in Scheiben schneiden. Wir haben bereits gelernt, dass ein 3D-Drucker Schicht für Schicht von unten nach oben druckt. Die Slicer-Software zerschneidet das 3D-Modell so, dass der Drucker die einzelnen Scheiben/Schichten nacheinander drucken kann.
 
-Einleitung/Überleitung zur Aufgabe:
+**Einleitung/Überleitung zur Aufgabe**:
 
 Wir lernen heute die Software Tinkercad kennen. Tinkercad ist eine webbasierte 3D-Modellierungsftware, die speziell für Anfänger und Kinder entwickelt wurde und die das geometrische Verfahren für die Modellierung nutzt.
 
@@ -614,7 +614,7 @@ Meine menschliche Kollegin wird euch jetzt das Programm und seine Funktionen zei
 
 Klickt dafür auf den Link auf der nächsten Seiten und los geht’s.
 
-Weiterer Ablauf:
+**Weiterer Ablauf**:
 Anmelden im Tinkercad-Klassenraum
 Gemeinsames Erstellen eines Smileys [Anleitung ChatGPT]
 Speichern der Modelle als STL-Datei
