@@ -631,13 +631,15 @@ Die Lehrkraft führt das Vorgehen vor. Folgende Schritte werden durchlaufen:
 2.	Druckmotiv auswählen
 3.	Schokolade vordosieren
 4.	Druck final anstoßen
-Troubleshooting:
-Es kommt keine/zu wenig Schokolade aus der Kartusche  weiter vordosieren
-Es kommt weiterhin, trotz Vordosierung, keine Schokolade aus der Kartusche  a) die Schokolade ist noch zu fest  erneut vorheizen
-b) die Kartusche ist leer  neue Schokolade einsetzen
-Die Schokolade haftet nicht auf der Silikonmatte  Matte und fließend warmem Wasser abspülen
 
-Praktische Aufgabe: Druck und Kontrolle des eigenen 3D-Objekts)
+**Troubleshooting:**
+- Es kommt keine/zu wenig Schokolade aus der Kartusche -> *weiter vordosieren*  
+- Es kommt weiterhin, trotz Vordosierung, keine Schokolade aus der Kartusche
+  - a) die Schokolade ist noch zu fest -> *erneut vorheizen*  
+  - b) die Kartusche ist leer -> neue Schokolade einsetzen  
+- Die Schokolade haftet nicht auf der Silikonmatte -> *Matte und fließend warmem Wasser abspülen*
+
+Praktische Aufgabe: Druck und Kontrolle des eigenen 3D-Objekts.
 
 ## Evaluation [00:10h]
 
