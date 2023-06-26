@@ -636,7 +636,7 @@ Die Lehrkraft führt das Vorgehen vor. Folgende Schritte werden durchlaufen:
 - Es kommt keine/zu wenig Schokolade aus der Kartusche -> *weiter vordosieren* <br><br>
 - Es kommt weiterhin, trotz Vordosierung, keine Schokolade aus der Kartusche <br>  
   - a) die Schokolade ist noch zu fest -> *erneut vorheizen* <br>  
-  - b) die Kartusche ist leer -> neue Schokolade einsetzen <br>  
+  - b) die Kartusche ist leer -> *neue Schokolade einsetzen* <br>  
 <br>  
 - Die Schokolade haftet nicht auf der Silikonmatte -> *Matte und fließend warmem Wasser abspülen*  
 
