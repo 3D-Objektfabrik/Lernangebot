@@ -634,9 +634,11 @@ Die Lehrkraft führt das Vorgehen vor. Folgende Schritte werden durchlaufen:
 
 **Troubleshooting:**
 - Es kommt keine/zu wenig Schokolade aus der Kartusche -> *weiter vordosieren*  
+<br>
 - Es kommt weiterhin, trotz Vordosierung, keine Schokolade aus der Kartusche  
   - a) die Schokolade ist noch zu fest -> *erneut vorheizen*  
   - b) die Kartusche ist leer -> neue Schokolade einsetzen  
+<br>  
 - Die Schokolade haftet nicht auf der Silikonmatte -> *Matte und fließend warmem Wasser abspülen*  
 
 Praktische Aufgabe: Druck und Kontrolle des eigenen 3D-Objekts.
