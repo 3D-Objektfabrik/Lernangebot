@@ -518,7 +518,7 @@ Vor dem Bildschirm auf einem Tisch steht der Schokodrucker bereit und ist an den
 Daneben aufgebaut und bereitgelegt sind:
 
 {{2-3}}
- * Die Bauteile:
+ * **Die Bauteile**:
 
    - Drucktisch
 
@@ -534,11 +534,11 @@ Daneben aufgebaut und bereitgelegt sind:
    ![SD-Kartenslot](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/SD-Kartenslot.JPG)
    ![Touch-Display](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch-Display.JPG)
 
- * Das Material:
+ * **Das Material**:
 
    - Schokoladenrollen
 
- * benötigte Hilfsmittel:
+ * **benötigte Hilfsmittel**:
    - Schneidebrett
 
    - Messer
@@ -547,7 +547,7 @@ Daneben aufgebaut und bereitgelegt sind:
    - Feuchttücher
    - Papiertücher
 
- * Sonstiges:
+ * **Sonstiges**:
 
    - Handdesinfektion
 
@@ -555,7 +555,7 @@ Daneben aufgebaut und bereitgelegt sind:
 Vier weitere Tische bzw. Sitzgelegenheiten für die TN sind in Vorbereitung auf LE4 so aufgebaut, dass die TN gute Sicht auf das Smart-TV haben.
 
 {{3-4}}
-Ablauf:
+**Ablauf**:
 Die Lehrperson begleitet die TN in den Kellerraum. Die TN suchen sich einen Platz und legen ihre Tablets beiseite.
 
 {{4-5}}
