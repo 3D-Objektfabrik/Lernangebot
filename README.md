@@ -695,7 +695,7 @@ Verrätst du mir noch, wie dir der Kurs gefallen hat?
 {{0-1}}
 [(🙂)(😐)(🙁)]
     [                                             ] Wie hat dir der Kurs insgesamt gefallen?
-    [                                             ] Ich Wie fandest du Charlies Erklärungen auf dem Tablet?
+    [                                             ] Wie fandest du Charlies Erklärungen auf dem Tablet?
     [                                             ] Wie haben dir die praktischen Teile gefallen?
 
 {{0-1}}
