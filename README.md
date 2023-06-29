@@ -94,6 +94,13 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 
 <a href="https://github.com/3D-Objektfabrik/" target="_blank">![GitHub](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/GitHub.png)</a>
 
+https://github.com/3D-Objektfabrik
+
+**Lernangebot**
+Dieses Repository enthält die eLerning-Angebot "Die fantastische 3D-Objektfabrik" im Rahmen des Moduls Informationsdidaktik und E-Learning (WPM T5) des MALIS-Studiengangs der TH Köln.
+
+**Ressourcen**
+Dieses Repository enthält Videos und Bilder, die im eLerning-Angebot "Die fantastische 3D-Objektfabrik" zum Einsatz kommen.
 
 ### LiaScript
 
