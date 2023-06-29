@@ -90,6 +90,11 @@ In der jeweils zweiten Phase der Lerneinheiten wird das zuvor vermittelte Wissen
 | -------- |----------|
 | Organisatorische Planung (*Anmeldemodalitäten, Raumbedarf, Technikbedarf, Personalbedarf etc.*) | **Anmeldemodalitäten**: Eine Anmeldung ist erforderlich. Die TN können sich vor Ort, telefonisch oder per E-Mail anmelden. Die Anzahl der TN ist auf vier begrenzt, um sicherzustellen, dass jeder TN genügend Zeit hat, den Drucker zu benutzen und Fragen zu stellen. <br><br>  **Raumbedarf**: Der E-Learning-Kurs am Tablet kann innerhalb der Bibliothek an einem frei wählbaren Platz durchgeführt werden. Die abschließende Hands-on-Übung findet am Standort des 3D-Schokodruckers im Eingangsbereich der Bibliothek statt. <br><br>  **Technikbedarf**: Ein 3D-Schoko-Drucker sowie 1 bis 4 Tablets (mit der notwendigen Software und Treibern) werden benötigt. Es sollte auch eine stabile Internetverbindung vorhanden sein, um auf die benötigte Software und Anleitungen zugreifen zu können. <br><br>  **Personalbedarf**: Es sollte mindestens ein erfahrener Mitarbeiter der Bibliothek anwesend sein, um Fragen zu beantworten und sicherzustellen, dass die TN den Drucker sicher bedienen können, um den Raum zu überwachen und bei Bedarf technische Unterstützung zu leisten. <br><br>  **Abschlussurkunde**: Ausstellung von Teilnehmerzertifikat. <br>|
 
+### GitHub
+
+<a href="https://github.com/3D-Objektfabrik/" target="_blank">![GitHub](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/GitHub.png)</a>
+
+
 ### LiaScript
 
         {{0 |>}}
