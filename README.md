@@ -115,7 +115,7 @@ Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript er
 ## Herzlich Willkommen in der Schokoladenfabrik
 
 Wir freuen uns, wenn ihr mitmacht:
-
+https://tinyurl.com/charlie-3d
 
 
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
