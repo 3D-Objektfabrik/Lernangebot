@@ -694,12 +694,17 @@ Ein fantastisches Schokoladenobjekt hast du heute erstellt!<br>
 Verrätst du mir noch, wie dir der Kurs gefallen hat?
 
 {{0-1}}
-[(👍)(👎)]
-    [                                             ] LiaScript ist großartig!
-    [                                             ] Ich würde es verwenden, um Online-Kurse **zu erstellen**.
-    [                                             ] Ich würde es für **Online-Umfragen** verwenden.
+[(🙂)(😐)(🙁)]
+    [                                             ] Wie hat dir der Kurs insgesamt gefallen?
+    [                                             ] Ich Wie fandest du Charlies Erklärungen auf dem Tablet?
+    [                                             ] Wie haben dir die praktischen Teile gefallen?
 
 {{0-1}}
+Was hat dir heute am besten gefallen?
+
+{{0-1}}
+[[____]]
+
 Schreibe bitte noch ein Wort in die Zeile, an das du dich aus dem Kurs erinnerst:
 
 {{0-1}}
