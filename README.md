@@ -1,6 +1,6 @@
 <!--
 author:  Diego Siqueira & Friederike Gernreich
-email:   stadtbuecherei@haltern.de
+email:   Charlie3DObjektfabrik@duck.com
 version:  0.0.1
 language: de
 narrator: Deutsch Male
