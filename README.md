@@ -705,6 +705,7 @@ Was hat dir heute am besten gefallen?
 {{0-1}}
 [[____]]
 
+{{0-1}}
 Schreibe bitte noch ein Wort in die Zeile, an das du dich aus dem Kurs erinnerst:
 
 {{0-1}}
