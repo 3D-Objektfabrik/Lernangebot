@@ -200,7 +200,7 @@ Sobald der Entwurf fertig ist, wird er an mich, Charlie, den Schokoladenroboter,
     {{2 |>}}
 Die Schokolade wird in einen Behälter gefüllt, der an meinem Kopf befestigt ist und ich erwärme die Schokolade, bis sie flüssig ist. Dann beginnt der eigentliche Druckvorgang. Ich bewege mich sehr präzise und Schicht für Schicht wird die flüssige Schokolade ausgedruckt. Dabei entsteht nach und nach das gewünschte Objekt.
 
-{{2}}
+    {{2-3}}
 ![Schokoladen-3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokodruck_Schicht_für_Schicht_qu.gif)
 
     {{2-3}}
