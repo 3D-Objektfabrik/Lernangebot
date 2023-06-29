@@ -29,13 +29,14 @@ Die fantastische 3D-Objektfabrik: Lerne auf lustige Weise, wie man einen 3D-Scho
 Die fantastische 3D-Objektfabrik ist ein E-Learning-Projekt, das Kindern und Jugendlichen ermöglichen soll, einen ersten Einblick in die Technik des 3D-Drucks zu gewinnen und am Beispiel eines Schoko 3D-Druckers die grundlegenden Kenntnisse und Fähigkeiten zu erlangen, eigenständig einen 3D-Druck durchzuführen.
 
     {{0-1}}
-![Schoko-3D-Druckers](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3dprint.jpg)
+![Schoko-3D-Druckers](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Gerätekorpus_schräg_300px.jpg)![Schoko-3D-Druckers](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/verschiedene_Schokomotive_300px.jpg)
 
     {{1-2 |>}}
 Das Lernangebot ist auf ca. zwei Stunden angelegt und findet vor Ort in der Stadtbücherei Haltern am See statt, ist aber größtenteils digital angelegt, d.h. für die Wissensvermittlung und das Lernen kommen Tablets und digitale Tools wie Apps zum Einsatz. Durch die E-Learning-Einheiten führt der Schoko 3D-Drucker quasi selbst – personifiziert als „**Charlie der Schoko-Robot**“ begleitet er die Teilnehmenden durch den Kurs und zeigt und erklärt ihnen die Funktionen seiner „fantastischen 3D-Objektfabrik“. Ziel dabei ist es, eine unterhaltsame und interaktive Lernerfahrung zu bieten, die nachhaltig Kompetenzen im Umgang mit neuen und digitalen Medien fördert.
 
     {{1-2}}
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif)<!--
+style = "width: 300px"-->
 
     {{2-3 |>}}
 Das Lernangebot besteht aus verschiedenen Lerneinheiten, die grob jeweils aus zwei Teilbereichen bestehen. In der jeweils ersten Phase der Lerneinheiten werden Erklärvideos bzw. analoge Demonstrationen gezeigt, die die wichtigsten Funktionen des 3D-Schoko-Druckers vorstellen und Beispiele für Objekte zeigen, die damit erstellt werden können. Die Videos und Demonstrationen zeigen Schritt für Schritt, wie der Drucker verwendet wird, vom Vorbereiten der Druckdatei bis zum Abschluss des Drucks.
@@ -111,11 +112,17 @@ Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript er
 
 !?[Wie kann Web 3.0 Lehre retten](https://www.youtube.com/watch?v=y6tBVNe6mWw "Wie kann Web 3.0 Lehre retten? - Andre Dietrich & Sebastian Zug - University:Future Festival 2023.")
 
+## Herzlich Willkommen in der Schokoladenfabrik
+
+Wir freuen uns, wenn ihr mitmacht:
+
+
+
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
     {{0-1 |>}}
 Hi, ich bin **Charlie**, der Schokoladenroboter. Genauer gesagt, bin ich ein Schokoladen 3D Drucker. Willkommen in meiner Schokoladenfabrik!<br><br>
-Ich möchte dir heute gerne erklären, wie der Schokoladen 3D-Druck funktioniert und gemeinsam mit dir etwas Leckeres aus Schokolade erschaffen.
+Ich möchte dir heute gerne erklären, wie der Schokoladen 3D-Druck funktioniert und gemeinsam mit dir etwas Leckeres aus Schokolade erschaffen.<br><br>
 Wenn du bereit bist, tippe auf den „Weiter“-Pfeil unten auf der Seite und wir beginnen.
 
     {{0-1}}
@@ -173,8 +180,8 @@ Also sei gespannt und bereit, eine Menge zu lernen und Spaß zu haben. Ich werde
     {{0 |>}}
 Ein 3D-Drucker ist eine Maschine, die dreidimensionale Gegenstände aus verschiedenen Materialien herstellen kann. Normalerweise verwendet man Kunststoff oder Metall, aber ich bin ein besonderer 3D-Drucker, der Schokolade benutzt!
 
-    {{0-1}}
-![3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d1.gif)
+    {{0}}
+![3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d1.gif)![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Metall_Filament_300px.jpg "Metall")![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/elektrische-kabelenergie-und-technologieausruestung-isoliert-auf-weiss.jpg "Kunststoff")![bunte Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokoladenpackung.jpg "bunte Schokolade")
 
 ### Wie funktioniert ein 3D-Drucker?
 
@@ -182,7 +189,7 @@ Ein 3D-Drucker ist eine Maschine, die dreidimensionale Gegenstände aus verschie
 Der Schokoladen 3D-Druck beginnt mit einem digitalen Entwurf, also einem virtuellen Modell, das jemand am Computer erstellt. Dort können wir die Form, Größe und Details festlegen. Es ist wie eine Bauanleitung für den 3D-Drucker.Dieses Modell kann alles sein: von Figuren und Formen bis hin zu Pralinen oder sogar kleinen Häusern.
 
     {{0-1}}
-![Schokoladen-3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/3d2.gif)
+![Schokoladen-3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Gitternetzmodell_Herzform.jpg)
 
     {{1 |>}}
 Sobald der Entwurf fertig ist, wird er an mich, Charlie, den Schokoladenroboter, gesendet. Ich habe eine spezielle Software und Mechanismen, die es mir ermöglichen, die Schokolade in genau der richtigen Weise zu schmelzen und zu formen
@@ -192,6 +199,9 @@ Sobald der Entwurf fertig ist, wird er an mich, Charlie, den Schokoladenroboter,
 
     {{2 |>}}
 Die Schokolade wird in einen Behälter gefüllt, der an meinem Kopf befestigt ist und ich erwärme die Schokolade, bis sie flüssig ist. Dann beginnt der eigentliche Druckvorgang. Ich bewege mich sehr präzise und Schicht für Schicht wird die flüssige Schokolade ausgedruckt. Dabei entsteht nach und nach das gewünschte Objekt.
+
+{{2}}
+![Schokoladen-3D-Druck](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokodruck_Schicht_für_Schicht_qu.gif)
 
     {{2-3}}
 ![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/b.png)
@@ -228,11 +238,18 @@ Ich möchte dir meinen Freund Jürgen vorstellen. Er arbeitet auch hier. Jürgen
    {{2 |>}}
 Jürgen mag am liebsten P L A-Filament. P L A – das steht für Polylactid - ist ein beliebtes Material im 3D-Druck und hat viele Vorteile. Es ist ein biologisch abbaubarer Kunststoff, der aus nachwachsenden Rohstoffen wie Maisstärke oder Zuckerrohr hergestellt wird. P L A ist umweltfreundlich und bietet eine gute Kombination aus Festigkeit, Haltbarkeit und Druckbarkeit.
 
+{{2-3}}
+![PLA-Filament](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/elektrische-kabelenergie-und-technologieausruestung-isoliert-auf-weiss.jpg "PLA-Filament")
+
+
    {{2-3}}
 ![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj2.png)
 
    {{3 |>}}
 Mit dieser Art 3D-Druck können viele verschiedene Dinge hergestellt werden: Spielzeug, Schmuck, Ersatzteile und vieles mehr. Es ist eine aufregende Technologie, die es uns erlaubt, unserer Fantasie freien Lauf zu lassen und unsere eigenen Objekte zu erschaffen.
+
+{{3-4}}
+![Spielzeug etc.](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Spielzeug_etc_300px.jpg)
 
    {{3-4}}
 ![Charlie und Jürgen](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/cj3.png)
@@ -358,7 +375,7 @@ Das **Touch-Display** ist meine Bedieneinheit. Darüber kannst du den Drucker st
 ![Touch-Display](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch_Display_300px.jpg "Touch-Display mit Menü")
 
     {{6-7 |>}}
-Nicht zu vergessen der **An/Auschalter** auf der Rückseite des Gerätes.
+Nicht zu vergessen der **An- und Ausschalter** auf der Rückseite des Gerätes.
 
     {{6-7}}
 ![an-ausschalter](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/An_Aus_Knopf_300px.jpg "An-/Ausschalter")
@@ -386,10 +403,10 @@ Jetzt kennst du bereits meine Bauteile. Hier ist ein Bild, auf dem alle Teile ab
 
     {{2-3}}
     [(5) (6) (7) (8)]
-    [( ) ( ) ( ) (X)]  An/Auschalter
-    [( ) ( ) (X) ( )]  Schokolade befüllte Kartusche
+    [( ) ( ) ( ) (X)]  An/Ausschalter
+    [( ) ( ) (X) ( )]  Schokolade zu Befüllen der Kartusche
     [( ) (X) ( ) ( )]  Silikonmatte
-    [(X) ( ) ( ) ( )]  Kartuschenhalter
+    [(X) ( ) ( ) ( )]  Kartusche
 
 ### Die Druckvorbereitung
 
@@ -417,15 +434,15 @@ style = "width: 300px"-->
 Jetzt geht’s an die Schokolade. Schneide die Schokolade in der Mitte durch. Die Folie bleibt an der Schokolade.
 
    {{3-4}}
-![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade1.jpg)<!--
+![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokoladenrollen_300px.jpg)<!--
+style = "width: 300px"-->![Schokolade](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade_schneiden_300px.jpg)<!--
 style = "width: 300px"-->
 
    {{4 |>}}
 Stecke die eine Hälfte der Schokolade mit der Schnittfläche nach unten in die Kartusche.
 
    {{4-5}}
-![Schokolade+Kartusche](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf1.jpg)<!--
-style = "width: 300px"-->
+![Schokolade+Kartusche](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Schokolade_in_Kartusche_stecken_300px.jpg)<!--style = "width: 300px"-->
 
    {{5 |>}}
 Stecke die Kartusche in den Kartuschenhalter.
@@ -508,20 +525,23 @@ Was sollte nach dem Einsetzen der Kartusche auf dem Touch-Display ausgewählt we
 
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
 
+
+{{0-1|>}}
+Fantastisch! Es wird Zeit, dass wir uns persönlich kennenlernen.<br> Gehe nun gemeinsam mit meiner  Kollegin ins Untergeschoss.<br>Ich warte dort auf euch.
+
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/charlie.gif) <!--
+style = "width: 300px"-->
+
+### Ablauf praktischer Teil "3D-Schokodrucker in Betrieb nehmen"
 > __Praktischer Teil in der Bücherei__
 
 {{0-1|>}}
 Die TN kommen nach Beendigung der LE2 für die praktische Übung am Schoko 3D-Drucker im Kellerraum zusammen .
 
-{{1-2|>}}
-Der Raum ist wie folgt vorbereitet:
+#### Raumvorbereitung
 
-{{1-2}}
-Auf dem Smart-TV ist die Folie der LE3 des digitalen Kurses eingeblendet, auf der Charlie zu sehen ist und die TN zu eben dieser begrüßt.
-
-{{1-2|> Deutsch Female}}
-"Hallo Kinder"
-![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/c.png)
+{{0-1}}
+Auf dem Smart-TV ist die Folie der LE3 des digitalen Kurses eingeblendet, auf der Charlie zu sehen.
 
 {{1-2}}
 Vor dem Bildschirm auf einem Tisch steht der Schokodrucker bereit und ist an den Strom angeschlossen, aber noch nicht eingeschaltet.
@@ -541,10 +561,6 @@ Daneben aufgebaut und bereitgelegt sind:
    - Kartuschenhalter
 
    - Kartusche
-   ![Druckkopf](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Druckkopf.JPG "**Druckkopf**")
-   ![Drucktisch](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Drucktisch1.jpg)
-   ![SD-Kartenslot](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/SD-Kartenslot.JPG)
-   ![Touch-Display](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/Touch-Display.JPG)
 
  * **Das Material**:
 
@@ -563,31 +579,31 @@ Daneben aufgebaut und bereitgelegt sind:
 
    - Handdesinfektion
 
-{{2-3}}
+{{3-4}}
 Vier weitere Tische bzw. Sitzgelegenheiten für die TN sind in Vorbereitung auf LE4 so aufgebaut, dass die TN gute Sicht auf das Smart-TV haben.
 
-{{3-4}}
+#### Ablaufplanung
+{{0-1}}
 **Ablauf**:
 Die Lehrperson begleitet die TN in den Kellerraum. Die TN suchen sich einen Platz und legen ihre Tablets beiseite.
 
-{{4-5}}
-Nochmalige Begrüßung durch die Lehrperson.
-Rekapitulation des bisher Gelernten und Ausblick auf das Kommende.
-Rückfragen zu den ersten beiden LE:
--	Was wurde in den ersten beiden LE vermittelt?
--	Gab es Verständnisschwierigkeiten?
--	Was ist der Auftrag für diese LE? Eine/r der TN wiederholt den Auftrag, ggf. ergänzt durch weitere Beiträge anderer TN.
-Auftrag: Setzt den Schoko-3D-Drucker zusammen und bereitet ihn für den Druck vor.
+{{1-2}}
+Die Lehrperson begrüßt die TN zu dieser LE.
+Das bisher Gelernten wird rekapituliert und ein Ausblick auf das Kommende gegeben.<br><br>
+Es werden **Verständnisfragen** zu den ersten beiden LE gestellt:<br>
+-	Was wurde in den ersten beiden LE vermittelt?<br>
+-	Gab es Verständnisschwierigkeiten?<br>
+-	Was ist der Auftrag für diese LE? Eine/r der TN wiederholt den Auftrag, ggf. ergänzt durch weitere Beiträge anderer TN.<br><br>
+**Auftrag:** Setzt den Schoko-3D-Drucker zusammen und bereitet ihn für den Druck vor.
 
-{{5-6}}
+{{2-3}}
 Bevor die TN an den Tisch und das Gerät gehen, erfolgt ein Hinweis zur Hygiene.
 Die TN waschen sich die Hände und nutzen Handdesinfektion.
 
-{{6-7}}
+{{3-4}}
 Gemeinsam werden die bereits bekannten Bauteile und das Material identifiziert, der Drucker zusammengesetzt und die Vorheizphase gestartet. Die Lehrperson unterstützt, wenn nötig bei den einzelnen Schritten.
 
-{{7-8}}
-<!-- style="background-color: tomato; color: white;"-->
+{{4-5}}
 Während der Drucker vorheizt, starten die TN die nächste Lerneinheit.
 
 
@@ -600,6 +616,10 @@ Während der Drucker vorheizt, starten die TN die nächste Lerneinheit.
 Modul ist optional, und kann, wenn die TN-Gruppe überwiegend aus jüngeren Kindern (ca. 8-11 Jahren) besteht und/oder wenn nicht genügend Zeit zur Verfügung steht, entfallen.
 
 Alternativ nutzen die TN die Vorheizzeit des Druckers [ca. 12 Minuten], um ein Motiv aus der vorhandenen Objektbibliothek auszuwählen.
+
+### Skript 3D-Modellierung
+
+> __Praktischer Teil in der Bücherei__
 
 **Zusammenhänge erklären**:
 
@@ -618,51 +638,73 @@ Ist das Modell fertig, wird es als STL-Datei gespeichert. Das ist ein spezielles
 
 Bevor die Datei gedruckt werden kann, muss sie aber noch durch ein weiteres Programm laufen: Eine „Slicer“-Software. „Slicer“ kommt vom englischen Wort „to slice“ und bedeutet in Scheiben schneiden. Wir haben bereits gelernt, dass ein 3D-Drucker Schicht für Schicht von unten nach oben druckt. Die Slicer-Software zerschneidet das 3D-Modell so, dass der Drucker die einzelnen Scheiben/Schichten nacheinander drucken kann.
 
+### Aufgabe
+
+> __Praktischer Teil in der Bücherei__
+
 **Einleitung/Überleitung zur Aufgabe**:
 
 Wir lernen heute die Software Tinkercad kennen. Tinkercad ist eine webbasierte 3D-Modellierungsftware, die speziell für Anfänger und Kinder entwickelt wurde und die das geometrische Verfahren für die Modellierung nutzt.
 
-Meine menschliche Kollegin wird euch jetzt das Programm und seine Funktionen zeigen und ihr werdet gemeinsam ein 3D-Modell erstellen.
+Ich werde euch jetzt das Programm und seine Funktionen zeigen und wir werden gemeinsam ein 3D-Modell erstellen.
 
 Klickt dafür auf den Link auf der nächsten Seiten und los geht’s.
 
-**Weiterer Ablauf**:
-Anmelden im Tinkercad-Klassenraum
-Gemeinsames Erstellen eines Smileys [Anleitung ChatGPT]
-Speichern der Modelle als STL-Datei
-Slicing der STL-Dateien
-Übertragen der Dateien auf den Drucker
+### Erstellen eines 3D-Modells
+
+> __Praktischer Teil in der Bücherei__
+
+**Weiterer Ablauf**: Die Lehrkraft demonstriert das Vorgehen. Der Bildschirm der Lehrkraft wird dafür auf das Smartboard projiziert. Die TN machen die Übung auf ihren Tablets nach.<br><br>
+
+**Arbeitsschritte**:<br>
+- Anmelden im Tinkercad-Klassenraum<br>
+- Gemeinsames Erstellen eines Smileys<br>
+- Speichern der Modelle als STL-Datei<br>
+- Slicing der STL-Dateien<br><br>
+
+Im Anschluss sammelt die Lehrkraft die Dateien und überträgt sie auf den Drucker.
 
 
 ## LE5: 3D-Druck durchführen und beurteilen [00:10 – 00:30h; je nach TN-Zahl]
 
 > __Praktischer Teil in der Bücherei__
 
-Die Lehrkraft führt das Vorgehen vor. Folgende Schritte werden durchlaufen:
-1.	„Drucken“ im Menü anwählen
-2.	Druckmotiv auswählen
-3.	Schokolade vordosieren
-4.	Druck final anstoßen
+Die Lehrkraft führt das Vorgehen vor. Folgende Schritte werden durchlaufen:<br>
+1.	„Drucken“ im Menü anwählen<br>
+2.	Druckmotiv auswähle<br>
+3.	Schokolade vordosieren<br>
+4.	Druck final anstoßen<br>
 
-**Troubleshooting:** <br><br>
+**Troubleshooting:** <br>
 - Es kommt keine/zu wenig Schokolade aus der Kartusche -> *weiter vordosieren* <br><br>
 - Es kommt weiterhin, trotz Vordosierung, keine Schokolade aus der Kartusche <br>  
-  - a) die Schokolade ist noch zu fest -> *erneut vorheizen* <br>  
-  - b) die Kartusche ist leer -> *neue Schokolade einsetzen* <br>  
+   a) die Schokolade ist noch zu fest -> *erneut vorheizen* <br>  
+   b) die Kartusche ist leer -> *neue Schokolade einsetzen* <br>  
 <br>  
 - Die Schokolade haftet nicht auf der Silikonmatte -> *Matte und fließend warmem Wasser abspülen*  
 
-Praktische Aufgabe: Druck und Kontrolle des eigenen 3D-Objekts.
+**Praktische Aufgabe**: Druck und Kontrolle des eigenen 3D-Objekts.
 
 ## Evaluation [00:10h]
 
-Wie fandet ihr den Kurs?
+**Abschied Charlie und Fragebogen**:<br><br>
 
-[[____]]
+{{0-1|>}}
+Ein fantastisches Schokoladenobjekt hast du heute erstellt!<br>
+Verrätst du mir noch, wie dir der Kurs gefallen hat?
 
-Was halten Sie von LiaScript?
-
-[(Stimme zu)(Stimme eher zu)(Wieder noch)(Stimme eher nicht zu)(Stimme nicht zu)]
+{{0-1}}
+[(👍)(👎)]
     [                                             ] LiaScript ist großartig!
     [                                             ] Ich würde es verwenden, um Online-Kurse **zu erstellen**.
     [                                             ] Ich würde es für **Online-Umfragen** verwenden.
+
+{{0-1}}
+Schreibe bitte noch ein Wort in die Zeile, an das du dich aus dem Kurs erinnerst:
+
+{{0-1}}
+[[____]]
+
+{{1-2|>}}
+Vielen Dank, dass du heute da warst! Ich würde mich freuen, wenn du mich wieder in der fantastischen 3D-Objektfrabrik besuchen kommst.
+![Charlie](https://raw.githubusercontent.com/3D-Objektfabrik/Ressourcen/main/images/d.png)
