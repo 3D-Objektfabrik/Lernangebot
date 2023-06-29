@@ -114,8 +114,7 @@ Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript er
 
 ## Herzlich Willkommen in der Schokoladenfabrik
 
-Wir freuen uns, wenn ihr mitmacht:
-**https://tinyurl.com/charlie-3d**  
+Wir freuen uns, wenn ihr mitmacht: https://tinyurl.com/charlie-3d
 
 ![QR-Code](https://i.snipboard.io/xDNjZ7.jpg)
 
