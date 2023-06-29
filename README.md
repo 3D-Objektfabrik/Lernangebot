@@ -115,8 +115,9 @@ Hier ist eine interessante Präsentation, die die Motivation hinter LiaScript er
 ## Herzlich Willkommen in der Schokoladenfabrik
 
 Wir freuen uns, wenn ihr mitmacht:
-https://tinyurl.com/charlie-3d
+**https://tinyurl.com/charlie-3d**  
 
+!QR-Code[](https://i.snipboard.io/xDNjZ7.jpg)
 
 ## LE1: Was ist 3D-Druck/Funktionsweise [00:15h]
 
@@ -524,7 +525,6 @@ Was sollte nach dem Einsetzen der Kartusche auf dem Touch-Display ausgewählt we
 [(X)] "Fertig".
 
 ## LE3: 3D-Schoko-Drucker in Betrieb nehmen [00:15h]
-
 
 {{0-1|>}}
 Fantastisch! Es wird Zeit, dass wir uns persönlich kennenlernen.<br> Gehe nun gemeinsam mit meiner  Kollegin ins Untergeschoss.<br>Ich warte dort auf euch.
